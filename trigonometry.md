@@ -111,6 +111,18 @@ $$
 $$
 \sin (2a) = \sin (a+a) = \cos a \sin a + \cos a \sin a = 2 \cos a \sin a 
 $$
+
+# Why radian 
+
+[https://betterexplained.com/articles/intuitive-guide-to-angles-degrees-and-radians/](https://betterexplained.com/articles/intuitive-guide-to-angles-degrees-and-radians/)
+
+각도는 사실 이상한 표기법이다. 
+
+- 360도의 근거는 무엇인가? (1년을 빗대서 365일에서 온 단위) 
+- 그리고 일종의 절대 단위다. 
+
+각도를 사
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU3MzExNjUsLTYzMTY3ODI2NF19
+eyJoaXN0b3J5IjpbLTE4Mjg1Nzc3MjcsLTEwMTU3MzExNjUsLT
+YzMTY3ODI2NF19
 -->
