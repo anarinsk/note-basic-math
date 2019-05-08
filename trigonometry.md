@@ -14,8 +14,12 @@
 # Hack Trig 
 
 - 그냥 대단하다! 이렇게 외울 걸... 
+![Trig all functions in a single diagram](https://betterexplained.com/wp-content/uploads/trig/trig-overall.png)
 
-## Origin of tagent 
+![Trig identities from similar triangles and pythagorean theorem](https://betterexplained.com/wp-content/uploads/trig/trig-identities.png)
+
+
+## Origin of word tagent 
 
 ![Tangent](https://betterexplained.com/wp-content/uploads/trig/tangent.png)
 
@@ -108,5 +112,5 @@ $$
 \sin (2a) = \sin (a+a) = \cos a \sin a + \cos a \sin a = 2 \cos a \sin a 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTY3ODI2NF19
+eyJoaXN0b3J5IjpbMzU2MTM5ODg5LC02MzE2NzgyNjRdfQ==
 -->
