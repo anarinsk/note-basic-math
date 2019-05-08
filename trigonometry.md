@@ -121,8 +121,12 @@ $$
 - 360도의 근거는 무엇인가? (1년을 빗대서 365일에서 온 단위) 
 - 그리고 일종의 절대 단위다. 
 
-각도를 사
+각도를 상대화해서 실수로 만들 수는 없을까? 
+- $\pi$에 착안하자. 즉, $\pi$란 원주와 지름(diameter)의 일정한 비율을 나
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg1Nzc3MjcsLTEwMTU3MzExNjUsLT
+eyJoaXN0b3J5IjpbLTEyMjMwODQwNDksLTEwMTU3MzExNjUsLT
 YzMTY3ODI2NF19
 -->
