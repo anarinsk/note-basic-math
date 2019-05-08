@@ -116,7 +116,7 @@ $$
 
 [https://betterexplained.com/articles/intuitive-guide-to-angles-degrees-and-radians/](https://betterexplained.com/articles/intuitive-guide-to-angles-degrees-and-radians/)
 
-각도는 사실 이상한 표기법이다. 이것은 도대체 어디서 유랳
+각도는 사실 이상한 표기법이다. 이것은 도대체 어디서 유래한 것인가? 일종의 관습법에 불과하다. 
 
 - 360도의 근거는 무엇인가? (1년을 빗대서 365일에서 온 단위) 
 - 그리고 일종의 절대 단위다. 
@@ -125,11 +125,11 @@ $$
 
 - 원주 위에서 원주를 따라서 이동한 거리를 반지름(radius)로 나누자. 이렇게 되면, 도는 각도가 고정된다. 
 - 이는 원주와 지름이 항상 일정한 숫자 $\pi$로 고정되기 때문이다. 
-- 즉, radian은 [0, 2\pi] 사이의 실수로 각도가 매핑된다. 
+- 즉, radian은 0~360돌 $[0, 2\pi]$ 사이의 실수로 각도가 매핑된다. 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODM2NTczNiwtODQ4NDc3NzIyLC0xMD
-E1NzMxMTY1LC02MzE2NzgyNjRdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjg4OTEwNDksLTg0ODQ3NzcyMiwtMT
+AxNTczMTE2NSwtNjMxNjc4MjY0XX0=
 -->
