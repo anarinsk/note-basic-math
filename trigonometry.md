@@ -116,7 +116,7 @@ $$
 
 [https://betterexplained.com/articles/intuitive-guide-to-angles-degrees-and-radians/](https://betterexplained.com/articles/intuitive-guide-to-angles-degrees-and-radians/)
 
-각도는 사실 이상한 표기법이다. 
+각도는 사실 이상한 표기법이다. 이것은 도대체 어디서 유랳
 
 - 360도의 근거는 무엇인가? (1년을 빗대서 365일에서 온 단위) 
 - 그리고 일종의 절대 단위다. 
@@ -130,6 +130,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODQ3NzcyMiwtMTAxNTczMTE2NSwtNj
-MxNjc4MjY0XX0=
+eyJoaXN0b3J5IjpbLTQ3ODM2NTczNiwtODQ4NDc3NzIyLC0xMD
+E1NzMxMTY1LC02MzE2NzgyNjRdfQ==
 -->
