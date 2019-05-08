@@ -122,11 +122,16 @@ $$
 - 그리고 일종의 절대 단위다. 
 
 각도를 상대화해서 실수로 만들 수는 없을까? 
-- $\pi$에 착안하자. 즉, $\pi$란 원주와 지름(diameter)의 일정한 비율을 나
+
+- 원주 위에서 원주를 따라서 이동한 거리를 반지름(radius)로 나누자. 이렇게 되면, 도는 각도가 고정된다. 
+- 이는 원주와 지름이 항상 일정한 숫자 $\pi$로 고정되기 때문이다. 
+- 즉, radian은 [0, 2\pi] 사이의 실수로 
+ 
+- $\pi$에 착안하자. 즉, $\pi$란 원주와 지름(diameter)의 일정한 비율을 나타낸다. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMwODQwNDksLTEwMTU3MzExNjUsLT
-YzMTY3ODI2NF19
+eyJoaXN0b3J5IjpbLTg4MTcwMTM2MCwtMTAxNTczMTE2NSwtNj
+MxNjc4MjY0XX0=
 -->
