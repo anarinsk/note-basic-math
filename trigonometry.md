@@ -125,11 +125,12 @@ $$
 
 - 원주 위에서 원주를 따라서 이동한 거리를 반지름(radius)로 나누자. 이렇게 되면, 도는 각도가 고정된다. 
 - 이는 원주와 지름이 항상 일정한 숫자 $\pi$로 고정되기 때문이다. 
-- 즉, radian은 0~360돌 $[0, 2\pi]$ 사이의 실수로 각도가 매핑된다. 
+- 즉, radian은 0~360도를 $[0, 2\pi]$ 사이의 실수로  매핑한다. 
+- 쓸 데 없는 단위도 붙지 않고, 그냥 실수인 radian을 쓰지 않을 이유가 있을까? 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg4OTEwNDksLTg0ODQ3NzcyMiwtMT
-AxNTczMTE2NSwtNjMxNjc4MjY0XX0=
+eyJoaXN0b3J5IjpbMTEwNDc4MjI3NSwtODQ4NDc3NzIyLC0xMD
+E1NzMxMTY1LC02MzE2NzgyNjRdfQ==
 -->
