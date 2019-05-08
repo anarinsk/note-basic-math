@@ -8,14 +8,14 @@
 
 ## 72 Rules 
 
-- 1이 있다고 하자. 
+- 1이 있다고 하자. 여기에 적정한 수를 곱하면 되니, 단위 수로 나쁘지 않다. 
 - 녀석이 2가 되어야 한다. 즉 두 배가 된다. 
 - 복리(compound rate)로 어느 정도의 성장률이 필요한가? 
 
 $$
 \begin{aligned}
 2 &= e^{x}\\\\
-\ln 2 &= x
+\ln 2 &= \ln e^{x} = x
 \end{aligned}
 $$
 
@@ -59,5 +59,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDk4OTYxNCwtNjQ4NzYwNjEyXX0=
+eyJoaXN0b3J5IjpbLTE0NTYyMzU3MDUsMTY4NDk4OTYxNCwtNj
+Q4NzYwNjEyXX0=
 -->
