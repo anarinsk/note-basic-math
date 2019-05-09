@@ -54,11 +54,11 @@ $$
 f^\prime (x) = \dfrac{d}{d x} e^{ix} = i e^{ix} = i \cdot f(x)
 $$
 
-즉, 현재의 포지션에서 직각의 가속도로 움직이게 된다. 
+즉, 현재의 포지션에서 직각의 가속도($i$)로 움직이게 된다. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYyMzU3MDUsMTY4NDk4OTYxNCwtNj
-Q4NzYwNjEyXX0=
+eyJoaXN0b3J5IjpbMjA1OTkyMTU2MSwtMTQ1NjIzNTcwNSwxNj
+g0OTg5NjE0LC02NDg3NjA2MTJdfQ==
 -->
