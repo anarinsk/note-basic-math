@@ -114,13 +114,13 @@ $$
 \frac{d}{dr} \log_{10} (1+r) = \dfrac{1}{\ln 10 \cdot (1+r)} 
 $$
 
-즉, $r$ 텀에 들어가는 계수가 1이 아니라 $\frac{1}{\ln 10}$이 곱해진다. $\ln$이 왜 
+즉, $r$ 텀에 들어가는 계수가 1이 아니라 $\frac{1}{\ln 10}$이 곱해진다. $\ln$이 왜 중요한지 다시 기억하기 바란다! 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY5ODYzNzYsLTgzMTA1NjY1MCwxND
-Q2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbMTcwNDc2ODY5MywtODMxMDU2NjUwLDE0ND
+Y0OTc5MzhdfQ==
 -->
