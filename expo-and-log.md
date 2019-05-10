@@ -102,8 +102,9 @@ x_{t+1} & = (1+r) x_t \\
 \end{aligned}
 $$
 
+왜 $\ln$이어야 하는가? 저 근사화가 성립하기 위해서는 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTkxNzQ2MywxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbLTgzMTA1NjY1MCwxNDQ2NDk3OTM4XX0=
 -->
