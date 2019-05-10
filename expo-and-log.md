@@ -111,14 +111,16 @@ $$
 예를 들어, $\log_{10} (1+r)$을 $r$에 대해서 미분해보자.
 
 $$
-\frac{d}{dr} \log_{10} (1+r) = \dfrac{1}{\ln 10 \cdot (1+r)}
+\frac{d}{dr} \log_{10} (1+r) = \dfrac{1}{\ln 10 \cdot (1+r)} 
 $$
+
+즉, $r$ 텀에 들어가는 계수가 1이 아니라 $\frac{1}{\ln 10}$이 곱해진다. $\ln$이 왜 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTQwNjYxLC04MzEwNTY2NTAsMTQ0Nj
-Q5NzkzOF19
+eyJoaXN0b3J5IjpbLTE4OTY5ODYzNzYsLTgzMTA1NjY1MCwxND
+Q2NDk3OTM4XX0=
 -->
