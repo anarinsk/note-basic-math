@@ -108,10 +108,10 @@ $$
 \ln (1+r) = \ln 1 + \dfrac{1}{1+r}|_{r=0} (r-0)  + \dotsb \approx r
 $$
 
-예를 들어, $\log_{10} (1+r)$을 $r$에 대해서 미분해보자.
+왜 $e$를 밑수로 써야 하는가? 10을 쓰면 안되나? 그렇다면, $\log_{10} (1+r)$을 $r$에 대해서 미분해보자. 우리가 아는 로그 미분
 
 $$
-\frac{d}{dr} \log_{10} (1+r) = \dfrac{1}{\ln 10 \cdot (1+r)} 
+\frac{d}{dr} \log_{10} (1+r) = \dfrac{1}{\ln 10}\cdot \dfrac{1}{(1+r)} 
 $$
 
 즉, $r$ 텀에 들어가는 계수가 1이 아니라 $\frac{1}{\ln 10}$이 곱해진다. $\ln$이 왜 중요한지 다시 기억하기 바란다! 
@@ -121,6 +121,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDc2ODY5MywtODMxMDU2NjUwLDE0ND
-Y0OTc5MzhdfQ==
+eyJoaXN0b3J5IjpbLTQ1Mzk2MDUwOCwxNzA0NzY4NjkzLC04Mz
+EwNTY2NTAsMTQ0NjQ5NzkzOF19
 -->
