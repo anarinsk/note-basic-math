@@ -102,9 +102,14 @@ x_{t+1} & = (1+r) x_t \\
 \end{aligned}
 $$
 
-왜 $\ln$이어야 하는가? 저 근사화가 성립하기 위해서는 
+왜 $\ln$이어야 하는가? 저 근사화가 성립하기 위해서는 TSE 0 주위에서 구해보자. 
+
+$$
+\ln x = \ln
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTA1NjY1MCwxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbLTMzODg1MTYwOSwtODMxMDU2NjUwLDE0ND
+Y0OTc5MzhdfQ==
 -->
