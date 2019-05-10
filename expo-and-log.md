@@ -90,8 +90,13 @@ $$
 Let $x_t$, $x_{t+1}$ be money values of two consecutive times. Return can be written by 
 
 $$
-\dfrac{x_{t+1} - x_t}{t_}
+\dfrac{x_{t+1} - x_t}{x_t}  = r
 $$
+
+$$
+x_{t+1} = (1+r) x_t
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTc0NTUzNiwxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbMTQ4NjE3NDg0MSwxNDQ2NDk3OTM4XX0=
 -->
