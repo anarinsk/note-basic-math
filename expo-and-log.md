@@ -108,7 +108,7 @@ $$
 \ln (1+r) = \ln 1 + \dfrac{1}{1+r}|_{r=0} (r-0)  + \dotsb \approx r
 $$
 
-왜 $e$를 밑수로 써야 하는가? 10을 쓰면 안되나? 그렇다면, $\log_{10} (1+r)$을 $r$에 대해서 미분해보자. 우리가 아는 로그 미분
+왜 $e$를 밑수로 써야 하는가? 10을 쓰면 안되나? 그렇다면, $\log_{10} (1+r)$을 $r$에 대해서 미분해보자. 우리가 아는 위의 로그 미분 결과는 자연 로그에만 해당함을 상기하자! 
 
 $$
 \frac{d}{dr} \log_{10} (1+r) = \dfrac{1}{\ln 10}\cdot \dfrac{1}{(1+r)} 
@@ -121,6 +121,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzk2MDUwOCwxNzA0NzY4NjkzLC04Mz
-EwNTY2NTAsMTQ0NjQ5NzkzOF19
+eyJoaXN0b3J5IjpbLTE5MjQyMDg3MTEsMTcwNDc2ODY5MywtOD
+MxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
 -->
