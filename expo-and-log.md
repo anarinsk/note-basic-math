@@ -102,14 +102,16 @@ x_{t+1} & = (1+r) x_t \\
 \end{aligned}
 $$
 
-왜 $\ln$이어야 하는가? 저 근사화가 성립하기 위해서는 TSE 0 주위에서 구해보자. 
+왜 $\ln$이어야 하는가? $r=0$ 주위에서 TSE을 구해보자. 
 
 $$
-\ln x = \ln
+\ln (1+r) = \ln 1 + \dfrac{1}{1+r}|_{r=0} (r-0)  + \dotsb \approx r
 $$
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODg1MTYwOSwtODMxMDU2NjUwLDE0ND
+eyJoaXN0b3J5IjpbMTIxMDUwNTg1MywtODMxMDU2NjUwLDE0ND
 Y0OTc5MzhdfQ==
 -->
