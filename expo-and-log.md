@@ -81,6 +81,17 @@ $$
 $$
 \dfrac{d}{dx} e^x = e^x
 $$
+
+
+# Log Difference 
+
+자연로그 값의 차이를 어떻게 이해해야 하는가? 
+
+Let $x_t$, $x_{t+1}$ be money values of two consecutive times. Return can be written by 
+
+$$
+\dfrac{x_{t+1} - x_t}{t_}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjQ5NzkzOF19
+eyJoaXN0b3J5IjpbLTQxMTc0NTUzNiwxNDQ2NDk3OTM4XX0=
 -->
