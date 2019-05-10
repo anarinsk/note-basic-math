@@ -108,10 +108,17 @@ $$
 \ln (1+r) = \ln 1 + \dfrac{1}{1+r}|_{r=0} (r-0)  + \dotsb \approx r
 $$
 
+예를 들어, $\log_{10} (1+r)$을 $r$에 대해서 미분해보자.
+
+$$
+\frac{d}{dr} \log_{10} (1+r) = \dfrac{1}{\ln 10 \cdot (1+r)}
+$$
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDUwNTg1MywtODMxMDU2NjUwLDE0ND
-Y0OTc5MzhdfQ==
+eyJoaXN0b3J5IjpbMTcxNTQwNjYxLC04MzEwNTY2NTAsMTQ0Nj
+Q5NzkzOF19
 -->
