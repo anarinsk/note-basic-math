@@ -116,11 +116,13 @@ $$
 
 즉, $r$ 텀에 들어가는 계수가 1이 아니라 $\frac{1}{\ln 10}$이 곱해진다. $\ln$이 왜 중요한지 다시 기억하기 바란다! 
 
+경제성장율 같은 경우 많아야 10% 정도에 불과하다. 따라서 로그 디퍼런스를 그대로 성장율처럼 써도 되겠다. 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQyMDg3MTEsMTcwNDc2ODY5MywtOD
+eyJoaXN0b3J5IjpbLTIxNDIxMDQwMDMsMTcwNDc2ODY5MywtOD
 MxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
 -->
