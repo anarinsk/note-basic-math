@@ -83,6 +83,7 @@ $$
 $$
 
 
+
 # Log Difference 
 
 자연로그 값의 차이를 어떻게 이해해야 하는가? 
@@ -123,6 +124,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIxMDQwMDMsMTcwNDc2ODY5MywtOD
-MxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
+eyJoaXN0b3J5IjpbLTExMTQ5NzA5MjksLTIxNDIxMDQwMDMsMT
+cwNDc2ODY5MywtODMxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
 -->
