@@ -41,13 +41,13 @@ $$
 
 $$
 \begin{aligned}
-\dfrac{d}{dx}\ln (x) & = \lim_{h \to 0} \dfrac{\ln (x+h) - \ln (x)}{h} \\ \\
-&=  \lim_{h \to 0} \dfrac{1}{h} \ln \left( 1+\frac{h}{x} \right) \\ \\
+\dfrac{d}{dx}\ln (x) & = \lim_{h \to 0} \dfrac{\ln (x+h) - \ln (x)}{h} \\\\
+&=  \lim_{h \to 0} \dfrac{1}{h} \ln \left( 1+\frac{h}{x} \right) \\\\
 & =  \lim_{h \to 0} \ln 
-\left( 1+\frac{h}{x} \right)^{\frac{1}{h}} \\ \\
-& =  \lim_{h \to 0} \ln \left( 1+\frac{1}{t} \right)^{\frac{t}{x}} \\ \\
-& = \dfrac{1}{x} \ln \left( \lim_{t \to 0} \left( 1+\frac{1}{t} \right)^t \right) \\ \\
-& = \dfrac{1}{x} \ln (e) \\ \\
+\left( 1+\frac{h}{x} \right)^{\frac{1}{h}} \\\\
+& =  \lim_{h \to 0} \ln \left( 1+\frac{1}{t} \right)^{\frac{t}{x}} \\\\
+& = \dfrac{1}{x} \ln \left( \lim_{t \to 0} \left( 1+\frac{1}{t} \right)^t \right) \\\\
+& = \dfrac{1}{x} \ln (e) \\\\
 & = \dfrac{1}{x}
 \end{aligned}
 $$
@@ -96,9 +96,9 @@ $$
 
 $$
 \begin{aligned}
-x_{t+1} & = (1+r) x_t \\
-\ln x_{t+1} &= \ln(1+r) + \ln x_t \\
-\ln x_{t+1} - \ln x_t &= \ln(1+r) \\
+x_{t+1} & = (1+r) x_t \\\\
+\ln x_{t+1} &= \ln(1+r) + \ln x_t \\\\
+\ln x_{t+1} - \ln x_t &= \ln(1+r) \\\\
 \Delta \ln x_{t+1} & \approx r ~ \text{for $r$ is small}.
 \end{aligned}
 $$
@@ -124,6 +124,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ5NzA5MjksLTIxNDIxMDQwMDMsMT
-cwNDc2ODY5MywtODMxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
+eyJoaXN0b3J5IjpbMTY0MTQwMzI3NSwtMTExNDk3MDkyOSwtMj
+E0MjEwNDAwMywxNzA0NzY4NjkzLC04MzEwNTY2NTAsMTQ0NjQ5
+NzkzOF19
 -->
