@@ -94,9 +94,14 @@ $$
 $$
 
 $$
-x_{t+1} = (1+r) x_t
+\begin{aligned}
+x_{t+1} & = (1+r) x_t \\
+\ln x_{t+1} &= \ln(1+r) + \ln x_t \\
+\ln x_{t+1} - \ln x_t &= \ln(1+r) \\
+\Delta \
+\end{aligned}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjE3NDg0MSwxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbMTg0ODY0OTQ1MywxNDQ2NDk3OTM4XX0=
 -->
