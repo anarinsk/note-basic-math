@@ -82,11 +82,9 @@ $$
 \dfrac{d}{dx} e^x = e^x
 $$
 
-
-
 # Log Difference 
 
-자연로그 값의 차이를 어떻게 이해해야 하는가? 
+두 자연로그 값의 차분을 어떻게 이해해야 하는가? 
 
 Let $x_t$, $x_{t+1}$ be money values of two consecutive times. Return can be written by 
 
@@ -118,15 +116,8 @@ $$
 즉, $r$ 텀에 들어가는 계수가 1이 아니라 $\frac{1}{\ln 10}$이 곱해진다. $\ln$이 왜 중요한지 다시 기억하기 바란다! 
 
 경제성장율 같은 경우 많아야 10% 정도에 불과하다. 따라서 로그 디퍼런스를 그대로 성장율처럼 써도 되겠다. 
-
-
-
-
-OG In Action 
-
-## log difference 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjgyOTE5NCwxNDM3MDIwMDA3LDE2ND
+eyJoaXN0b3J5IjpbLTM3Mjc4NTk0NiwxNDM3MDIwMDA3LDE2ND
 E0MDMyNzUsLTExMTQ5NzA5MjksLTIxNDIxMDQwMDMsMTcwNDc2
 ODY5MywtODMxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
 -->
