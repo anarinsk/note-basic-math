@@ -4,7 +4,7 @@
 ## Definition 
 
 $$
-\exp {(x)} = \sum_{k=0}^\infty = 1 + x + \dfrac{x^2}{2!} + + \dfrac{x^3}{3!} + \dotsb
+\exp {(x)} = \sum_{k=0}^\infty \dfrac{x^k}{k!} = 1 + x + \dfrac{x^2}{2!} + + \dfrac{x^3}{3!} + \dotsb
 $$
 
 * or Euler number 
@@ -126,7 +126,7 @@ OG In Action
 
 ## log difference 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzAyMDAwNywxNjQxNDAzMjc1LC0xMT
-E0OTcwOTI5LC0yMTQyMTA0MDAzLDE3MDQ3Njg2OTMsLTgzMTA1
-NjY1MCwxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbMTAyNjgyOTE5NCwxNDM3MDIwMDA3LDE2ND
+E0MDMyNzUsLTExMTQ5NzA5MjksLTIxNDIxMDQwMDMsMTcwNDc2
+ODY5MywtODMxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
 -->
