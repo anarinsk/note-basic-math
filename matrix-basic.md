@@ -78,11 +78,11 @@ $G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$
 - 이 매트릭스는 어떤 변환을 나타내는가? 답부터 말하면, 반 시계 방향으로 $\frac{\pi}{2}$ 만큼 회전시키는 것과 같다.  
 - 우선, 앞서 봤던 것처럼 매트릭스 $G$의 첫번째 컬럼은 $[1,0]^{\rm T}$의 변환을 의미한다. 그 의미는 아래의 그림과 같다. 
 
-![](https://dhruvp.netlify.com/public/images/rotation_1_0.png =300x)
+![](https://dhruvp.netlify.com/public/images/rotation_1_0.png =400x)
 
 - 우선, 앞서 봤던 것처럼 $G$의 두번째 컬럼은 $[0,1]^{\rm T}$의 변환을 의미한다. 그 의미는 아래의 그림과 같다. 
 
-![](https://dhruvp.netlify.com/public/images/rotation_0_1.png)
+![](https://dhruvp.netlify.com/public/images/rotation_0_1.png =400x)
 
 $G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$
 
@@ -112,7 +112,7 @@ $g\left(\left[ \begin{array}{l}{x} \\ {y}\end{array}\right]\right)=\left[ \begin
 
 $\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right] \cdot \left[ \begin{array}{l}{x} \\ {y}\end{array}\right]$
 
-즉 위 
+즉 벡터 $[x, y]^{\rm T}$를 $G$라는 오퍼레이터에 의해 조작하라는 것이다. 그리고 그 의미는 반시계 방향으로 $\frac{\pi}{2}$ 만큼 회전시키라는 것이다. 
 
 # Matrix Multiplication as Function Composition 
 
@@ -122,6 +122,6 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjQ2MzI2LC0zNzM2NDg5NzEsNzA0MT
-Y0MTQ4XX0=
+eyJoaXN0b3J5IjpbLTEyNjgxNzgxNTQsLTM3MzY0ODk3MSw3MD
+QxNjQxNDhdfQ==
 -->
