@@ -5,7 +5,7 @@
 
 [https://dhruvp.netlify.com/2019/02/25/eigenvectors/](https://dhruvp.netlify.com/2019/02/25/eigenvectors/)
 
-# Multiplication as Arithmetic 
+# Multiplication as Arithmetic?
 
 매트릭스를 연산으로 보는 것에 익숙하다. 왜냐하면 이것으로 시험을 봤기 때문이지... 
 
@@ -116,5 +116,5 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MTY0MTQ4XX0=
+eyJoaXN0b3J5IjpbMTI3MTgwNDIxMyw3MDQxNjQxNDhdfQ==
 -->
