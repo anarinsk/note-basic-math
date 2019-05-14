@@ -3,8 +3,6 @@
 
 [https://dhruvp.netlify.com/2018/12/31/matrices/](https://dhruvp.netlify.com/2018/12/31/matrices/)
 
-[https://dhruvp.netlify.com/2019/02/25/eigenvectors/](https://dhruvp.netlify.com/2019/02/25/eigenvectors/)
-
 # Multiplication as Arithmetic?
 
 매트릭스를 연산으로 보는 것에 익숙하다. 왜냐하면 이것으로 시험을 봤기 때문이지... 
@@ -136,6 +134,6 @@ $F \cdot G$
 
 그림으로 보자면, $v = [2,1]^{\rm T}$라는 벡터를 일단 스케일링 한 후, 반시계방향으로 $\frac{\pi}{2}$ 만큼 회전시킨다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMDQyMDk2LC0zNzM2NDg5NzEsNzA0MT
-Y0MTQ4XX0=
+eyJoaXN0b3J5IjpbLTE5ODE0NjU4NjksLTM3MzY0ODk3MSw3MD
+QxNjQxNDhdfQ==
 -->
