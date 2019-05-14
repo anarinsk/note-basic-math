@@ -24,11 +24,13 @@ $f(x)=x^2$은 리니어 맵일까? 당연히 아니다. 1, 2 모두 성립하지
 
 # Linear map as rotation and scaling 
 
-리니어 맵이 
+리니어 맵이 수행하는 역할을 크게 두가지다. 하나는 축을 바꾸는 것이고 (회전), 다른 하나는 크기를 변화시키는 것이다. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rotation_illustration2.svg/1920px-Rotation_illustration2.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rotation_illustration2.svg/1920px-Rotation_illustration2.svg.png =300x)
 
-![scaling example](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaDrawingGuide/Art/scaling_2x.png)
+다른 하나는 크기를 변화시키
+
+![scaling example](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaDrawingGuide/Art/scaling_2x.png =300x)
 
 # Examples: Linear Map 
 
@@ -117,5 +119,5 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjQzNTc5LDcwNDE2NDE0OF19
+eyJoaXN0b3J5IjpbLTEyNzk3ODY5NzUsNzA0MTY0MTQ4XX0=
 -->
