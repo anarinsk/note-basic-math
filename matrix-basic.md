@@ -121,7 +121,11 @@ $H=\left[g\left(f\left(\left[ \begin{array}{l}{1} \\ {0}\end{array}\right]\right
 $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
+
+이게 바로 $G \cdot F$이다. 매트릭스 곱은 함수에서 합성 함수와 동일한 의미를 지닌다. 
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgxNzgxNTQsLTM3MzY0ODk3MSw3MD
-QxNjQxNDhdfQ==
+eyJoaXN0b3J5IjpbMjA3NTk2MTc0MCwtMzczNjQ4OTcxLDcwND
+E2NDE0OF19
 -->
