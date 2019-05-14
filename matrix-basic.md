@@ -28,7 +28,7 @@ $f(x)=x^2$은 리니어 맵일까? 당연히 아니다. 1, 2 모두 성립하지
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rotation_illustration2.svg/1920px-Rotation_illustration2.svg.png =300x)
 
-다른 하나는 크기를 변화시키
+다른 하나는 크기를 변화시키는 것이다. 
 
 ![scaling example](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaDrawingGuide/Art/scaling_2x.png =300x)
 
@@ -36,16 +36,16 @@ $f(x)=x^2$은 리니어 맵일까? 당연히 아니다. 1, 2 모두 성립하지
 
 ## 1-d
 
-선형의 경우 간단하다. 우리가 아는 덧셈, 그리고 곱셈을 생각하면 되겠다. 
+선형의 경우 간단하다. 수직선 위에서 아는 덧셈, 그리고 곱셈을 생각하면 되겠다. 
 
 ## 2-d
  
- 2차원만 되도 사정이 복잡하다. 예를 들어보자. $f(x)$가 일종의 scaling function이라고 하자. $x$ 축으로 3배, $y$ 축으로 5배 이동한다. 이를 그림으로 나타내면 아래와 같다. 
+ 2차원만 되도 사정이 다소 복잡하다. 예를 들어보자. $f(x)$가 일종의 scaling function이라고 하자. $x$ 축으로 3배, $y$ 축으로 5배 이동한다. 이를 그림으로 나타내면 아래와 같다. 
 
  
-![](https://dhruvp.netlify.com/public/images/scaling_f.png)
+![](https://dhruvp.netlify.com/public/images/scaling_f.png =500x)
 
-두 개의 베이시스 $[1,0]^{\rm T}$, $[0, 1]^{\rm T}$를 생각해보자. 이 함수는 다음과 같은 산출을 내놓을 것이다. 
+여기서 두 개의 인풋 벡터 $[1,0]^{\rm T}$, $[0, 1]^{\rm T}$를 생각해보자. 이 함수는 다음과 같은 산출을 내놓을 것이다. 
 
 $f\left(\left[ \begin{array}{l}{1} \\ {0}\end{array}\right]\right)=\left[ \begin{array}{l}{3} \\ {0}\end{array}\right]$
 
@@ -119,5 +119,5 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk3ODY5NzUsNzA0MTY0MTQ4XX0=
+eyJoaXN0b3J5IjpbLTM3MzY0ODk3MSw3MDQxNjQxNDhdfQ==
 -->
