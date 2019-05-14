@@ -134,8 +134,8 @@ $F \cdot G$
 
 ![](https://dhruvp.netlify.com/public/images/composition_steps.png =600x)
 
-그림으로 보자면, $v = [2,1]^{\rm T}$라는 벡터를 
+그림으로 보자면, $v = [2,1]^{\rm T}$라는 벡터를 일단 스케일링 한 후, 반시계방향으로 $\frac{\pi}{2}$ 만큼 회전시킨다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ5ODAxNzgsLTM3MzY0ODk3MSw3MD
-QxNjQxNDhdfQ==
+eyJoaXN0b3J5IjpbNTAxMDQyMDk2LC0zNzM2NDg5NzEsNzA0MT
+Y0MTQ4XX0=
 -->
