@@ -86,7 +86,7 @@ $G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$
 
 $G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$
 
-이 둘을 합쳐보면, 이 매트릭스는 2
+이 둘을 합쳐보면, 이 매트릭스는 2-d 벡터를 반시계 방향으로 $\frac{\pi}{2}$ 만큼 회전시키는 조작을 뜻한다. 
 
 # Applying the Function 
 
@@ -112,6 +112,8 @@ $g\left(\left[ \begin{array}{l}{x} \\ {y}\end{array}\right]\right)=\left[ \begin
 
 $\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right] \cdot \left[ \begin{array}{l}{x} \\ {y}\end{array}\right]$
 
+즉 위 
+
 # Matrix Multiplication as Function Composition 
 
 $H=\left[g\left(f\left(\left[ \begin{array}{l}{1} \\ {0}\end{array}\right]\right) \quad g\left(f\left(\left[ \begin{array}{l}{0} \\ {1}\end{array}\right]\right)\right)\right)\right]$
@@ -120,6 +122,6 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4OTEyMTQ4LC0zNzM2NDg5NzEsNzA0MT
+eyJoaXN0b3J5IjpbODgyNjQ2MzI2LC0zNzM2NDg5NzEsNzA0MT
 Y0MTQ4XX0=
 -->
