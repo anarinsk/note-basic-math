@@ -75,19 +75,18 @@ $=\left[ \begin{array}{ll}{3} & {0} \\ {0} & {5}\end{array}\right]$
 
 $G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$ 
 
-- 이 매트릭스는 어떤 변환을 나타내는가? 답부터 말하면, 반 시계 방향으로 $\pi/2$ 만큼 회전시키는 의미를 지닌다. 
-- 우선, 앞서 봤던 것처럼 $G$의 첫번째 컬럼은 $[1,0]^{\rm T}$의 변환을 의미한다. 그 의미는 아래의 그림과 같다. 
+- 이 매트릭스는 어떤 변환을 나타내는가? 답부터 말하면, 반 시계 방향으로 $\frac{\pi}{2}$ 만큼 회전시키는 것과 같다.  
+- 우선, 앞서 봤던 것처럼 매트릭스 $G$의 첫번째 컬럼은 $[1,0]^{\rm T}$의 변환을 의미한다. 그 의미는 아래의 그림과 같다. 
 
 ![](https://dhruvp.netlify.com/public/images/rotation_1_0.png =300x)
 
 - 우선, 앞서 봤던 것처럼 $G$의 두번째 컬럼은 $[0,1]^{\rm T}$의 변환을 의미한다. 그 의미는 아래의 그림과 같다. 
 
-
 ![](https://dhruvp.netlify.com/public/images/rotation_0_1.png)
 
 $G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$
 
-$[1,0]^{\rm T}$에서 시작한다고 생각하면 $x$축을 $y축으로 반시계 방향으로 뒤집은 이후 다시 한번 반시계방향으로 $\pi/2$ 만큼 회전시키는 것을 의미한다. 
+이 둘을 합쳐보면, 이 매트릭스는 2
 
 # Applying the Function 
 
@@ -121,6 +120,6 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzI3NTU3OCwtMzczNjQ4OTcxLDcwND
-E2NDE0OF19
+eyJoaXN0b3J5IjpbMzY4OTEyMTQ4LC0zNzM2NDg5NzEsNzA0MT
+Y0MTQ4XX0=
 -->
