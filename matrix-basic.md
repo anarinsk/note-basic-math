@@ -15,15 +15,16 @@
 
 # Matrix as Function 
 
-매트릭스를 함수로 이해할 수 있다. 다만 특별한 성격의 함수들만 가능한다. 이를 linear map이라고 부른다. 리니어 맵의 정의 두 개는 아래와 같다. $f(\cdot)$이 리니어 맵일 때, 
+매트릭스를 함수로 이해해 보자. 물론 매트릭스를 이렇게 이해하려면 함수가 특별해야 한다. 이런 특별한 형태의 함수들을 선형 사상이라고 부르는, 이를 정의하는 내용은 다음의 두 가지다. $f(\cdot)$이 리니어 맵일 때, 
 
 1.  $f(c \cdot x) = c f(x)$
 2. $f(x+y) = f(x) + f(y)$
 
 $f(x)=x^2$은 리니어 맵일까? 당연히 아니다. 1, 2 모두 성립하지 않는다. 
 
-# Linear map as ratation and scaling 
+# Linear map as rotation and scaling 
 
+리니어 맵이 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rotation_illustration2.svg/1920px-Rotation_illustration2.svg.png)
 
@@ -116,5 +117,5 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTgwNDIxMyw3MDQxNjQxNDhdfQ==
+eyJoaXN0b3J5IjpbNDk4MjQzNTc5LDcwNDE2NDE0OF19
 -->
