@@ -51,7 +51,7 @@ $f\left(\left[ \begin{array}{l}{1} \\ {0}\end{array}\right]\right)=\left[ \begin
 
 $f\left(\left[ \begin{array}{l}{0} \\ {1}\end{array}\right]\right)=\left[ \begin{array}{l}{0} \\ {5}\end{array}\right]$
 
-$f([10, 9]^{\rm T})$는 어떻게 표현될까? 
+$f([10, 9]^{\rm T})$는 어떤 아웃풋을 낳을까? 
 
 $f\left(\left[ \begin{array}{l}{10} \\ {9}\end{array}\right]\right)=f\left(\left[ \begin{array}{c}{10} \\ {0}\end{array}\right]\right)+f\left(\left[ \begin{array}{l}{0} \\ {9}\end{array}\right]\right)$
 
@@ -119,5 +119,6 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzY0ODk3MSw3MDQxNjQxNDhdfQ==
+eyJoaXN0b3J5IjpbMTc4MzY4OTMwMSwtMzczNjQ4OTcxLDcwND
+E2NDE0OF19
 -->
