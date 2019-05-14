@@ -124,8 +124,18 @@ $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 
 이게 바로 $G \cdot F$이다. 매트릭스 곱은 함수에서 합성 함수와 동일한 의미를 지닌다. 
 
-##
+## Examples 
+
+$F=\left[ \begin{array}{ll}{3} & {0} \\ {0} & {5}\end{array}\right]$
+
+$G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$
+
+$F \cdot G$ 
+
+![](https://dhruvp.netlify.com/public/images/composition_steps.png =600x)
+
+그림으로 보자면, $v = [2,1]^{\rm T}$라는 벡터를 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTk2MTc0MCwtMzczNjQ4OTcxLDcwND
-E2NDE0OF19
+eyJoaXN0b3J5IjpbLTE3NDQ5ODAxNzgsLTM3MzY0ODk3MSw3MD
+QxNjQxNDhdfQ==
 -->
