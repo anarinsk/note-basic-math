@@ -65,6 +65,8 @@ $=\left[ \begin{array}{l}{30} \\ {45}\end{array}\right]$
 
 # Matrices 
 
+매트릭스란 저 함수를 하나의 형태로 컴팩트하게 표현한 것에 다름 아니다. 즉, 
+
 $\left[f\left(\left[ \begin{array}{l}{1} \\ {0}\end{array}\right]\right) \quad f\left(\left[ \begin{array}{l}{0} \\ {1}\end{array}\right]\right)\right]$
 
 $=\left[ \begin{array}{ll}{3} & {0} \\ {0} & {5}\end{array}\right]$
@@ -76,7 +78,7 @@ $G=\left[ \begin{array}{cc}{0} & {-1} \\ {1} & {0}\end{array}\right]$
 - 이 매트릭스는 어떤 변환을 나타내는가? 답부터 말하면, 반 시계 방향으로 $\pi/2$ 만큼 회전시키는 의미를 지닌다. 
 - 우선, 앞서 봤던 것처럼 $G$의 첫번째 컬럼은 $[1,0]^{\rm T}$의 변환을 의미한다. 그 의미는 아래의 그림과 같다. 
 
-![](https://dhruvp.netlify.com/public/images/rotation_1_0.png)
+![](https://dhruvp.netlify.com/public/images/rotation_1_0.png =300x)
 
 - 우선, 앞서 봤던 것처럼 $G$의 두번째 컬럼은 $[0,1]^{\rm T}$의 변환을 의미한다. 그 의미는 아래의 그림과 같다. 
 
@@ -119,6 +121,6 @@ $H=\left[g\left(F_{c o l 1}\right) \quad g\left(F_{c o l 2}\right)\right]$
 
 $H=\left[G \cdot F_{c o l 1} \quad G \cdot F_{c o l 2}\right]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzY4OTMwMSwtMzczNjQ4OTcxLDcwND
+eyJoaXN0b3J5IjpbMTI0NzI3NTU3OCwtMzczNjQ4OTcxLDcwND
 E2NDE0OF19
 -->
