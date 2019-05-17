@@ -94,7 +94,7 @@ $$
 \vert a + b \cdot i \vert = \sqrt{a^2 + b^2}
 $$
 
-이 값으로 허수를 나누면 모든 허수의 길이는 단위원 안에 들어온다.
+이 값으로 허수를 나누면 모든 허수의 길이는 $\sqrt{a^2 + b^2}$ 단위원 안에 들어온다.
 
 ## Powers 
 
@@ -106,7 +106,7 @@ $i^0 = 1$, $i^1 = i$, $i^2 = -1$
 
 ## Fractional 
 
-$i^{1/2}$을 생각해보자. 일단 $i^{1/2} = a + b\cdot i$ 라고 가정해보자. 양변을 제곱하겨 문제를 풀면, 
+$i^{1/2}$을 생각해보자. 일단 $i^{1/2} = a + b\cdot i$ 라고 가정해보자. 양변을 제곱하고 문제를 풀면, 
 
 $$
 \left( a, b \right) = \left( \dfrac{\sqrt{2}}{2}, \dfrac{\sqrt{2}}{2} \right)~\text{or}~\left( -\dfrac{\sqrt{2}}{2}, -\dfrac{\sqrt{2}}{2} \right)
@@ -114,7 +114,7 @@ $$
 
 심심하면, $z^3 = 1$을 풀어보기 바란다. 
 
-$$ Exponential behavior 
+## Exponential behavior 
 
 $i$의 승수의 경우 고유값을 갖지 않고 순환하는 특성을 지니고 있다. 
 
@@ -158,5 +158,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Nzg4MTY1MiwtMTY5MjYwMTUyNl19
+eyJoaXN0b3J5IjpbLTEwODEyNjA0MTQsLTE2OTI2MDE1MjZdfQ
+==
 -->
