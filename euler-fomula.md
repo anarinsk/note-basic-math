@@ -23,7 +23,7 @@ $$
 e^x = \lim_{n \to \infty} (1 + \dfrac{x}{n})^n
 $$
 
-$e^x$의 형태로 이미 복소계와 친화적이다! $x=pi \cdot i$로 두자. 
+$e^x$의 형태로 이미 복소계와 친화적이다! $x=\pi \cdot i$로 두자. 
 
 ### Facts 
 
@@ -157,5 +157,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI2MDE1MjZdfQ==
+eyJoaXN0b3J5IjpbODA3NTQ3Mjc0LC0xNjkyNjAxNTI2XX0=
 -->
