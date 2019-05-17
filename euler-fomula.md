@@ -61,8 +61,8 @@ $$
 ## Radian 
 
 * radius(반지름)에서 온 말임을 쉽게 알 수 있다. 
-* 즉, 원주의 길에서 반지름 만큼만 잘라낸 영역을 radian이라고 정의한다. 이에 따르면, 
-* 원주가 $2r\pi$이므로, 360도를 나타내는 radian은 $2\pi$가 된다. 
+* 즉, 특정한 원호의 길이를 반지름으로 나눈 것을 radian이라고 정의한다. 이에 따르면, 
+	* 원주가 $2r\pi$이므로, 360도를 나타내는 radian은 $2\pi$가 된다. 
 * 따라서 이 관계로부터, 360도의 1/2인 180도는 $pi$, 1/4인 90도는 $\frac{\pi}{2}$등과 같이 정의된다. 
 * 360단위로 표기된 각도를 실수로 치환하는 테크닉으로 이해하면 좋겠다. 
 
@@ -157,5 +157,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NTQ3Mjc0LC0xNjkyNjAxNTI2XX0=
+eyJoaXN0b3J5IjpbLTcxMjg3OTY4NSwtMTY5MjYwMTUyNl19
 -->
