@@ -116,8 +116,24 @@ $$
 즉, $r$ 텀에 들어가는 계수가 1이 아니라 $\frac{1}{\ln 10}$이 곱해진다. $\ln$이 왜 중요한지 다시 기억하기 바란다! 
 
 경제성장율 같은 경우 많아야 10% 정도에 불과하다. 따라서 로그 디퍼런스를 그대로 성장율처럼 써도 되겠다. 게다가, $\ln (1+x) \leq x$가 성립한다. 즉 오차가 크게 나는 경우에도 값을 과장하게 되지는 않는다. 
+
+# 72 Rules 
+
+- 1이 있다고 하자. 여기에 적정한 수를 곱하면 되니, 단위 수로 나쁘지 않다. 
+- 녀석이 2가 되어야 한다. 즉 두 배가 된다. 
+- 복리(compound rate)로 어느 정도의 성장률이 필요한가? 
+
+$$
+\begin{aligned}
+2 &= e^{x}\\\\
+\ln 2 &= \ln e^{x} = x
+\end{aligned}
+$$
+
+즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE4MjY1ODQsMTQzNzAyMDAwNywxNj
-QxNDAzMjc1LC0xMTE0OTcwOTI5LC0yMTQyMTA0MDAzLDE3MDQ3
-Njg2OTMsLTgzMTA1NjY1MCwxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbMzgwNTI2ODgwLC0xOTMxODI2NTg0LDE0Mz
+cwMjAwMDcsMTY0MTQwMzI3NSwtMTExNDk3MDkyOSwtMjE0MjEw
+NDAwMywxNzA0NzY4NjkzLC04MzEwNTY2NTAsMTQ0NjQ5NzkzOF
+19
 -->
