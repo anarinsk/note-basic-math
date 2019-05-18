@@ -16,10 +16,15 @@ $$
 e^{xi} = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} i \right)^n
 $$
 
-$(1+\frac{1}{n}i)$는 실수계로 1만큼 그리고 허수계로 즉, 90도의 각도로 방향을 틀어 $1/n$만큼 이동한다는 의미다. 이제 $(1+\frac{1}{n}i)^2$은 무엇인가? 일단 한번 이동한 상태에서 이제 곱이다. 사실상 허수의 곱과 같다! 허수계로 다시 90도 만큼 $1/n$ 만큼 이동하는 것을 의미한다. 그리고 $e^{ix}$의 정의를 보면, 1의 길이를 유지한 상태에서 $x$ 라디언 만큼 회전하는 것을 의미한다. 
+$(1+\frac{1}{n}i)$는 실수계로 1만큼 그리고 허수계로 즉, 90도의 각도로 방향을 틀어 $1/n$만큼 이동한다는 의미다. 이제 $(1+\frac{1}{n}i)^2$은 무엇인가? 한번 이동한 상태에서 제곱이다. 사실상 허수의 곱과 같다. 90도 만큼 $1/n$ 만큼 이동하는 것을 의미한다. 그리고 $e^{ix}$의 정의를 보면, 1의 길이를 유지한 상태에서 $x$ 라디언 만큼 회전하는 것을 의미한다. 
 
 ![](https://betterexplained.com/wp-content/uploads/math-analogies/math-analogies-jpg.022.jpeg)
 
+### More understanding 
+
+$(1+\dfrac{i}{100})^{2}$ 따져보자. 
+
+1. 
 
 ## Examples 
 
@@ -59,7 +64,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjA1NzA2LDI5MzA0MDcwOSw4NzcwND
-gwOTQsLTYyMDEwOTI0OCw2MzI4MjA5MzYsMjA1OTkyMTU2MSwt
-MTQ1NjIzNTcwNSwxNjg0OTg5NjE0LC02NDg3NjA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDAzMTgzMzksMTU1MjA1NzA2LDI5Mz
+A0MDcwOSw4NzcwNDgwOTQsLTYyMDEwOTI0OCw2MzI4MjA5MzYs
+MjA1OTkyMTU2MSwtMTQ1NjIzNTcwNSwxNjg0OTg5NjE0LC02ND
+g3NjA2MTJdfQ==
 -->
