@@ -53,7 +53,11 @@ $$
 
 $e$의 정의를 떠올려보자. 
 
-[https://github.com/anarinsk/public_writing/master/assets/images/iproduct.png ](https://github.com/anarinsk/public_writing/blob/master/assets/images/iproduct.png)
+$$
+e^x = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} \right)^n
+$$
+
+![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png)
 
 $$
 e^x = \lim_{n \to \infty} (1 + \dfrac{x}{n})^n
@@ -192,6 +196,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzk2ODExMywtMTM2NDY0Nzg5MiwtMT
-A4MTI2MDQxNCwtMTY5MjYwMTUyNl19
+eyJoaXN0b3J5IjpbLTEwMzc1MDM0OCwtNjg3OTY4MTEzLC0xMz
+Y0NjQ3ODkyLC0xMDgxMjYwNDE0LC0xNjkyNjAxNTI2XX0=
 -->
