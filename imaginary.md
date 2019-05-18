@@ -10,7 +10,9 @@
 
 ## Exponent 
 
-그렇다면, exponential에서 승수는 어떻게 기하학적으로 이해할 수 있을까? 
+그렇다면, exponential에서 허수의 승수는 어떻게 기하학적으로 이해할 수 있을까? 허수를 승수로 
+
+![](https://betterexplained.com/wp-content/uploads/math-analogies/math-analogies-jpg.022.jpeg)
 
 
 ## Examples 
@@ -51,7 +53,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MDQ4MDk0LC02MjAxMDkyNDgsNjMyOD
-IwOTM2LDIwNTk5MjE1NjEsLTE0NTYyMzU3MDUsMTY4NDk4OTYx
-NCwtNjQ4NzYwNjEyXX0=
+eyJoaXN0b3J5IjpbNzMzMzAyMDkyLDg3NzA0ODA5NCwtNjIwMT
+A5MjQ4LDYzMjgyMDkzNiwyMDU5OTIxNTYxLC0xNDU2MjM1NzA1
+LDE2ODQ5ODk2MTQsLTY0ODc2MDYxMl19
 -->
