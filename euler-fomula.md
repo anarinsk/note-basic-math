@@ -51,9 +51,19 @@ $$
 
 [http://slesinsky.org/brian/misc/eulers_identity.html](http://slesinsky.org/brian/misc/eulers_identity.html)
 
+복소계에서 복소수의 곱을 기하학적으로 이해하면 아래와 같다. 
+
 ![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png)
 
+$e$의 정의를 떠올려보자. 
 
+$$
+e^x = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} \right)^n
+$$
+
+$x = \pi \cdot i$로 두고 이를 기하학적으로 이해하면 아래와 같다. 
+
+![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png)
 
 ### Facts 
 
@@ -188,6 +198,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDA4Mjg3MSwtNjg3OTY4MTEzLC0xMz
-Y0NjQ3ODkyLC0xMDgxMjYwNDE0LC0xNjkyNjAxNTI2XX0=
+eyJoaXN0b3J5IjpbLTE0NTQzOTY4MjUsLTY4Nzk2ODExMywtMT
+M2NDY0Nzg5MiwtMTA4MTI2MDQxNCwtMTY5MjYwMTUyNl19
 -->
