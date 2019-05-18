@@ -37,7 +37,7 @@ From the definition of $e^x$
 $$
 e^x = 1 + x + \dfrac{x^2}{2!} +  \dfrac{x^3}{3!} + \dotsb
 $$
-<br> 
+
 $$
 \begin{aligned}
 e^{i \cdot x}  & =  1 + i \cdot  x - \dfrac{x^2}{2!}  -  \dfrac{i \cdot x^3}{3!}  +  \dfrac{x^4}{4!}  + \dfrac{i \cdot x^5}{5!} -  \dfrac{x^6}{6!}  -  \dfrac{i \cdot x^7}{7!}  +   \dfrac{x^8}{8!}  + \dotsb \\\\
@@ -48,6 +48,7 @@ i \left( x  -  \dfrac{x^3}{3!}  + \dfrac{ x^5}{5!}   -  \dfrac{x^7}{7!}  \right)
 $$
 
 ## Visually (really amazing) 
+
 [http://slesinsky.org/brian/misc/eulers_identity.html](http://slesinsky.org/brian/misc/eulers_identity.html)
 
 $e$의 정의를 떠올려보자. 
@@ -55,8 +56,6 @@ $e$의 정의를 떠올려보자.
 $$
 e^x = \lim_{n \to \infty} (1 + \dfrac{x}{n})^n
 $$
-
-$e^x$의 형태로 이미 복소계와 친화적이다! $x=\pi \cdot i$로 두자. 
 
 ### Facts 
 
@@ -191,6 +190,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTI0MzQwNCwtMTA4MTI2MDQxNCwtMT
-Y5MjYwMTUyNl19
+eyJoaXN0b3J5IjpbLTEzNjQ2NDc4OTIsLTEwODEyNjA0MTQsLT
+E2OTI2MDE1MjZdfQ==
 -->
