@@ -28,8 +28,10 @@ $(1+\dfrac{i}{100})^{2}$ 따져보자.
 2. $(1+\dfrac{i}{100})(1+\dfrac{i}{100})$을 계산해보자. 
 
 $$
-1+\dfrac{2}{100}i 
+1+\dfrac{2}{100}i -(\dfrac{1}{100})^{2} \approx 1+\dfrac{1}{50}i
 $$
+
+해당 삼각형의 ㄷ
 
 ## Examples
 
@@ -69,8 +71,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcwMTc4NTIsMTU1MjA1NzA2LDI5Mz
-A0MDcwOSw4NzcwNDgwOTQsLTYyMDEwOTI0OCw2MzI4MjA5MzYs
-MjA1OTkyMTU2MSwtMTQ1NjIzNTcwNSwxNjg0OTg5NjE0LC02ND
-g3NjA2MTJdfQ==
+eyJoaXN0b3J5IjpbMTUzODExMDAyMSwxNTUyMDU3MDYsMjkzMD
+QwNzA5LDg3NzA0ODA5NCwtNjIwMTA5MjQ4LDYzMjgyMDkzNiwy
+MDU5OTIxNTYxLC0xNDU2MjM1NzA1LDE2ODQ5ODk2MTQsLTY0OD
+c2MDYxMl19
 -->
