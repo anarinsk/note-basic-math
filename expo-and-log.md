@@ -5,7 +5,7 @@
 
 $$
 \begin{aligned}
-\exp {(x)} & = \lim_{n \to \infty} \left( 1 + \dfrac{1}{n} \right)^n \\ 
+\exp {(x)} & = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} \right)^n \\ 
 & =\sum_{k=0}^\infty \dfrac{x^k}{k!} = 1 + x + \dfrac{x^2}{2!} + + \dfrac{x^3}{3!} + \dotsb
 \end{aligned}
 $$
@@ -13,22 +13,22 @@ $$
 
 
 * Also called Euler number 
-* Expand expression in the limit 
+* 단위 $e$를 생각해보자. 
 
 $$
-\lim_{n \to \infty} \left[ {n\choose 0} \left(\dfrac{1}{n} \right)^0 1^n + {n\choose 1} \left(\dfrac{1}{n} \right)^1 1^{n-1} + {n\choose 2} \left(\dfrac{1}{n} \right)^2 1^{n-2} + \dotsc \right]
+\lim_{n \to \infty} \left[ {n\choose 0} \left(\dfrac{1}{n} \right)^0 1^n + {n\choose 1} \left(\dfrac{1}{n} \right)^1 1^{n-1} + {n\choose 2} \left(\dfrac{1}{n} \right)^2 1^{n-2} + \dotsb \right]
 $$
 
 $$
 \lim_{n \to \infty} \left[ 1 + 1 + \dfrac{n!}{(n-2)!2!}\left(\dfrac{1}{n} \right)^2 1^{n-2} + 
  \dfrac{n!}{(n-3)!3!}\left(\dfrac{1}{n} \right)^3 1^{n-2} 
-\dotsc \right]
+\dotsb \right]
 $$
 
 $$
 \lim_{n \to \infty} \left[ 1 + 1 + \dfrac{1}{2!} + 
- \dfrac{n!}{(n-3)!3!}\left(\dfrac{1}{n} \right)^3 1^{n-2} 
-\dotsc \right]
+ \dfrac{1}{3!} +  
+\dotsb \right]
 $$
 
 
@@ -155,7 +155,7 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjQ3MDQ4NywzODA1MjY4ODAsLTE5Mz
+eyJoaXN0b3J5IjpbMTExODgzMzQ3MCwzODA1MjY4ODAsLTE5Mz
 E4MjY1ODQsMTQzNzAyMDAwNywxNjQxNDAzMjc1LC0xMTE0OTcw
 OTI5LC0yMTQyMTA0MDAzLDE3MDQ3Njg2OTMsLTgzMTA1NjY1MC
 wxNDQ2NDk3OTM4XX0=
