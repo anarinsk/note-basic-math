@@ -10,10 +10,12 @@ $$
 \end{aligned}
 $$
 
-
-
 * Also called Euler number 
 * 단위 $e$를 생각해보자. 
+
+$$
+e^x = \lim_{n \to \infty} (1+\dfrac{x}{n})^n
+$$
 
 $$
 \lim_{n \to \infty} \left[ {n\choose 0} \left(\dfrac{1}{n} \right)^0 1^n + {n\choose 1} \left(\dfrac{1}{n} \right)^1 1^{n-1} + {n\choose 2} \left(\dfrac{1}{n} \right)^2 1^{n-2} + \dotsb \right]
@@ -155,8 +157,8 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODgzMzQ3MCwzODA1MjY4ODAsLTE5Mz
-E4MjY1ODQsMTQzNzAyMDAwNywxNjQxNDAzMjc1LC0xMTE0OTcw
-OTI5LC0yMTQyMTA0MDAzLDE3MDQ3Njg2OTMsLTgzMTA1NjY1MC
-wxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbMTYxODY1MDI3LDM4MDUyNjg4MCwtMTkzMT
+gyNjU4NCwxNDM3MDIwMDA3LDE2NDE0MDMyNzUsLTExMTQ5NzA5
+MjksLTIxNDIxMDQwMDMsMTcwNDc2ODY5MywtODMxMDU2NjUwLD
+E0NDY0OTc5MzhdfQ==
 -->
