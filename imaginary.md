@@ -31,7 +31,15 @@ $$
 1+\dfrac{2}{100}i -(\dfrac{1}{100})^{2} \approx 1+\dfrac{1}{50}i
 $$
 
-해당 삼각형의 ㄷ
+해당 삼각형의 등변의 길이를 구하면, 
+
+$$
+\sqrt{1^2 + (\dfrac{1}{50})^2} \approx 1
+$$
+
+$$
+
+$$
 
 ## Examples
 
@@ -71,7 +79,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODExMDAyMSwxNTUyMDU3MDYsMjkzMD
+eyJoaXN0b3J5IjpbMTk2MTIwMzYxOSwxNTUyMDU3MDYsMjkzMD
 QwNzA5LDg3NzA0ODA5NCwtNjIwMTA5MjQ4LDYzMjgyMDkzNiwy
 MDU5OTIxNTYxLC0xNDU2MjM1NzA1LDE2ODQ5ODk2MTQsLTY0OD
 c2MDYxMl19
