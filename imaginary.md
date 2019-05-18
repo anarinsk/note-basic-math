@@ -4,13 +4,13 @@
 
 # 복수 좌표계에서 움직임 
 
-## 곱 
+## 허수의 곱 
 
 허수를 곱한다는 것은 복소 좌표계에서 축을 한번에 옮기는 것이다. 왼쪽 그림처럼 $1$과 $i \cdot 1$을 생각해보면 된다. 
 
-## Exponent 
+## $e^{x \cdot i}$ 
 
-그렇다면, exponential에서 허수의 승수는 어떻게 기하학적으로 이해할 수 있을까? 허수를 승수로 
+그렇다면, exponential에서 허수의 승수는 어떻게 기하학적으로 이해할 수 있을까? 허수를 승수로
 
 ![](https://betterexplained.com/wp-content/uploads/math-analogies/math-analogies-jpg.022.jpeg)
 
@@ -53,7 +53,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMzAyMDkyLDg3NzA0ODA5NCwtNjIwMT
-A5MjQ4LDYzMjgyMDkzNiwyMDU5OTIxNTYxLC0xNDU2MjM1NzA1
-LDE2ODQ5ODk2MTQsLTY0ODc2MDYxMl19
+eyJoaXN0b3J5IjpbMTg1MjEwOTUxMSw4NzcwNDgwOTQsLTYyMD
+EwOTI0OCw2MzI4MjA5MzYsMjA1OTkyMTU2MSwtMTQ1NjIzNTcw
+NSwxNjg0OTg5NjE0LC02NDg3NjA2MTJdfQ==
 -->
