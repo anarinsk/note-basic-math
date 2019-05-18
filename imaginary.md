@@ -10,7 +10,7 @@
 
 ## Exponent 
 
-그렇다면, exponential에서 승수는 어떻게 기하
+그렇다면, exponential에서 승수는 어떻게 기하학적으로 이해할 수 있을까? 
 
 
 ## Examples 
@@ -51,7 +51,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTQ5NDY0MywtNjIwMTA5MjQ4LDYzMj
-gyMDkzNiwyMDU5OTIxNTYxLC0xNDU2MjM1NzA1LDE2ODQ5ODk2
-MTQsLTY0ODc2MDYxMl19
+eyJoaXN0b3J5IjpbODc3MDQ4MDk0LC02MjAxMDkyNDgsNjMyOD
+IwOTM2LDIwNTk5MjE1NjEsLTE0NTYyMzU3MDUsMTY4NDk4OTYx
+NCwtNjQ4NzYwNjEyXX0=
 -->
