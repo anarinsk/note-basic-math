@@ -24,9 +24,14 @@ $(1+\frac{1}{n}i)$는 실수계로 1만큼 그리고 허수계로 즉, 90도의 
 
 $(1+\dfrac{i}{100})^{2}$ 따져보자. 
 
-1. 
+1. $(1+\dfrac{i}{100})$는 실수축으로 1, 허수축으로 $\frac{1}{100}$으로 이동한다. 
+2. $(1+\dfrac{i}{100})(1+\dfrac{i}{100})$을 계산해보자. 
 
-## Examples 
+$$
+1+\dfrac{2}{100}i 
+$$
+
+## Examples
 
 ### Case $2^i$
 
@@ -64,7 +69,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAzMTgzMzksMTU1MjA1NzA2LDI5Mz
+eyJoaXN0b3J5IjpbLTE2MDcwMTc4NTIsMTU1MjA1NzA2LDI5Mz
 A0MDcwOSw4NzcwNDgwOTQsLTYyMDEwOTI0OCw2MzI4MjA5MzYs
 MjA1OTkyMTU2MSwtMTQ1NjIzNTcwNSwxNjg0OTg5NjE0LC02ND
 g3NjA2MTJdfQ==
