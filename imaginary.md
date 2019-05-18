@@ -16,7 +16,7 @@ $$
 e^{xi} = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} i \right)^n
 $$
 
-$(1+\frac{1}{n}i)$는 실수계로 1만큼 그리고 허수계로 즉, 90도의 각도로 방향을 틀어 $1/n$만큼 이동한다는 의미다. 이제 $(1+\frac{1}{n}i)^2$은 무엇인가? 일단 한번 이동한 상태에서 다시 실수계 1을 유지한 상태에서 허수계로 다시 90도 만큼 
+$(1+\frac{1}{n}i)$는 실수계로 1만큼 그리고 허수계로 즉, 90도의 각도로 방향을 틀어 $1/n$만큼 이동한다는 의미다. 이제 $(1+\frac{1}{n}i)^2$은 무엇인가? 일단 한번 이동한 상태에서 다시 실수계 1을 유지한 상태에서 허수계로 다시 90도 만큼 $1/n$ 만큼 이동하는 것을 의미한다. 
 
 ![](https://betterexplained.com/wp-content/uploads/math-analogies/math-analogies-jpg.022.jpeg)
 
@@ -59,7 +59,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYyMjc0OTMsODc3MDQ4MDk0LC02Mj
-AxMDkyNDgsNjMyODIwOTM2LDIwNTk5MjE1NjEsLTE0NTYyMzU3
-MDUsMTY4NDk4OTYxNCwtNjQ4NzYwNjEyXX0=
+eyJoaXN0b3J5IjpbMjkzMDQwNzA5LDg3NzA0ODA5NCwtNjIwMT
+A5MjQ4LDYzMjgyMDkzNiwyMDU5OTIxNTYxLC0xNDU2MjM1NzA1
+LDE2ODQ5ODk2MTQsLTY0ODc2MDYxMl19
 -->
