@@ -13,8 +13,10 @@
 그렇다면, exponential에서 허수의 승수는 어떻게 기하학적으로 이해할 수 있을까? 허수를 승수로 곱하면 어떻게 될까? $e$의 정의로 돌아가보는 게 좋다. 
 
 $$
-e = \lim_{n \to \infty} \left( 1 + \dfra\right)
+e^{xi} = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} i \right)^n
 $$
+
+$(1+\frac{1}{n}i)$
 
 ![](https://betterexplained.com/wp-content/uploads/math-analogies/math-analogies-jpg.022.jpeg)
 
@@ -57,7 +59,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzU3MjQwNiw4NzcwNDgwOTQsLTYyMD
-EwOTI0OCw2MzI4MjA5MzYsMjA1OTkyMTU2MSwtMTQ1NjIzNTcw
-NSwxNjg0OTg5NjE0LC02NDg3NjA2MTJdfQ==
+eyJoaXN0b3J5IjpbOTI3OTQ0MjA2LDg3NzA0ODA5NCwtNjIwMT
+A5MjQ4LDYzMjgyMDkzNiwyMDU5OTIxNTYxLC0xNDU2MjM1NzA1
+LDE2ODQ5ODk2MTQsLTY0ODc2MDYxMl19
 -->
