@@ -38,7 +38,7 @@ $$
 $$
 
 $$
-
+\lim_{n \to \infty} \sqrt{1^2 + (\dfrac{1}{n})^2} = 1
 $$
 
 ## Examples
@@ -79,7 +79,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTIwMzYxOSwxNTUyMDU3MDYsMjkzMD
+eyJoaXN0b3J5IjpbLTYwNDE1MTM2MSwxNTUyMDU3MDYsMjkzMD
 QwNzA5LDg3NzA0ODA5NCwtNjIwMTA5MjQ4LDYzMjgyMDkzNiwy
 MDU5OTIxNTYxLC0xNDU2MjM1NzA1LDE2ODQ5ODk2MTQsLTY0OD
 c2MDYxMl19
