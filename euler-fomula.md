@@ -15,6 +15,8 @@ $$
 
 ## Using taylor series expansion 
 
+수학적으로 명료하지만 감칠맛은 없다. 
+
 $$
 \sin x \xrightarrow{\text{derivative}} 
 \cos x \xrightarrow{\text{derivative}} 
@@ -51,7 +53,7 @@ $$
 
 [http://slesinsky.org/brian/misc/eulers_identity.html](http://slesinsky.org/brian/misc/eulers_identity.html)
 
-복소계에서 복소수의 곱을 기하학적으로 이해하면 아래와 같다. 
+복소계에서 복소수의 승수을 기하학적으로 이해하면 아래와 같다. 
 
 ![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png)
 
@@ -198,6 +200,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQzOTY4MjUsLTY4Nzk2ODExMywtMT
-M2NDY0Nzg5MiwtMTA4MTI2MDQxNCwtMTY5MjYwMTUyNl19
+eyJoaXN0b3J5IjpbLTE3NDMyMjgzNywtNjg3OTY4MTEzLC0xMz
+Y0NjQ3ODkyLC0xMDgxMjYwNDE0LC0xNjkyNjAxNTI2XX0=
 -->
