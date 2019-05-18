@@ -15,8 +15,10 @@ $$
 
 $$
 \begin{aligned}
-e^x & = \lim_{n \to \infty} (1+\dfrac{x}{n})^n \\
-& =  \lim_{n/x \to \infty} (1+\dfrac{1}{(n/x)})^{}
+\lim_{n \to \infty} (1+\dfrac{x}{n})^n \\
+& =  \lim_{n/x \to \infty} \left[(1+\dfrac{1}{(n/x)})^{n/x} \right]^x \\
+& =  \left[\lim_{n/x \to \infty} (1+\dfrac{1}{(n/x)})^{n/x} \right]^x \\
+& = e^x
 \end{aligned}
 $$
 
@@ -160,8 +162,8 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ5OTE1MTMsMzgwNTI2ODgwLC0xOT
-MxODI2NTg0LDE0MzcwMjAwMDcsMTY0MTQwMzI3NSwtMTExNDk3
-MDkyOSwtMjE0MjEwNDAwMywxNzA0NzY4NjkzLC04MzEwNTY2NT
-AsMTQ0NjQ5NzkzOF19
+eyJoaXN0b3J5IjpbMzYzMTQ5NDc3LDM4MDUyNjg4MCwtMTkzMT
+gyNjU4NCwxNDM3MDIwMDA3LDE2NDE0MDMyNzUsLTExMTQ5NzA5
+MjksLTIxNDIxMDQwMDMsMTcwNDc2ODY5MywtODMxMDU2NjUwLD
+E0NDY0OTc5MzhdfQ==
 -->
