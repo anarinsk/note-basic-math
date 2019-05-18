@@ -1,8 +1,8 @@
 
-# Multiplication vs. Exponents 
-
 
 ![](https://betterexplained.com/wp-content/uploads/2018/08/imaginary-multiplication-exponents.png)
+
+# 허수 좌표계에서 움직임 
 
 곱은 축을 옮기는 것이다. 왼쪽 그림처럼 $1$과 $i \cdot 1$을 생각해보면 된다. 지수는 벡터의 방향을 $\frac{\pi}{2}$만큼 트는 것을 의미한다. 이는 현재의 방향에서  $\frac{\pi}{2}$ 회전이다. 
 
@@ -44,7 +44,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDEwOTI0OCw2MzI4MjA5MzYsMjA1OT
-kyMTU2MSwtMTQ1NjIzNTcwNSwxNjg0OTg5NjE0LC02NDg3NjA2
-MTJdfQ==
+eyJoaXN0b3J5IjpbMzk0NjE3ODY2LC02MjAxMDkyNDgsNjMyOD
+IwOTM2LDIwNTk5MjE1NjEsLTE0NTYyMzU3MDUsMTY4NDk4OTYx
+NCwtNjQ4NzYwNjEyXX0=
 -->
