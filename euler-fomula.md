@@ -72,7 +72,7 @@ $$
 
 ![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compund_2.PNG](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compund_2.PNG)
 
-이때 $n \to \infty$를 하면, 접하는 삼각형들의 변의 길이는 동일해지고 fact 1에 따라서 이등변 삼각형이 되므로 원을 벗어나지 않게 된다. 
+이때 $n \to \infty$를 하면, 접하는 삼각형들의 변의 길이는 동일해지고 이등변 삼각형이 되므로 원을 벗어나지 않게 된다. 
 
 $$
 \lim_{n \to \infty} (1 + \dfrac{\pi \cdot i}{n})^n = e^{\pi \cdot i}
@@ -94,7 +94,8 @@ $$
 * 즉, 특정한 원호의 길이를 반지름으로 나눈 것을 radian이라고 정의한다. 이에 따르면, 
 	* 원주가 $2r\pi$이므로, 360도를 나타내는 radian은 $2\pi$가 된다. 
 * 따라서 이 관계로부터, 360도의 1/2인 180도는 $\pi$, 1/4인 90도는 $\frac{\pi}{2}$등과 같이 정의된다. 
-* 360단위로 표기된 각도를 실수로 치환하는 테크닉으로 이해하면 좋겠다. 
+* 라디언은 360도 표기법에서 실수로 가는 일종의 함수이다. 
+	* 즉 360단위로 표기된 각도를 실수로 치환하는 테크닉으로 이해하면 좋겠다. 
 * 더구나 360도라는 것은 아무런 베이스가 없는 표기법이다. Radian을 쓰게 될 경우 각도가 실수로 치환되는 장점이 있고, 단위에 의존하지 않게 된다. 
 
 # Euler Identity 
@@ -188,7 +189,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzOTMzOTA5LC0xMTEyNjgzNDM4LC0xNj
-YwOTk3NTIxLC0xNzQzMjI4MzcsLTY4Nzk2ODExMywtMTM2NDY0
-Nzg5MiwtMTA4MTI2MDQxNCwtMTY5MjYwMTUyNl19
+eyJoaXN0b3J5IjpbLTUzMDg4OTE5NCwtMTExMjY4MzQzOCwtMT
+Y2MDk5NzUyMSwtMTc0MzIyODM3LC02ODc5NjgxMTMsLTEzNjQ2
+NDc4OTIsLTEwODEyNjA0MTQsLTE2OTI2MDE1MjZdfQ==
 -->
