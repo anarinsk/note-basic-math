@@ -53,7 +53,7 @@ $$
 
 [http://slesinsky.org/brian/misc/eulers_identity.html](http://slesinsky.org/brian/misc/eulers_identity.html)
 
-복소계에서 복소수의 승수을 기하학적으로 이해하면 아래와 같다. 
+복소계에서 복소수의 승수을를 기하학적으로 이해하면 아래와 같다. 
 
 ![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/iproduct.png)
 
@@ -63,7 +63,7 @@ $$
 e^x = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} \right)^n
 $$
 
-$x = \pi \cdot i$로 두고 이를 기하학적으로 이해하면 아래와 같다. 
+x  \pi \cdot i$로 두고 이를 기하학적으로 이해하면 아래와 같다. 
 
 ![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png)
 
@@ -86,12 +86,6 @@ $$
 
 그리고 복소 좌표계에서 해당 제곱은 $(-1,0)$에서 끝나게 된다. 
 
-### A special case 
-
-복소 좌표계에서 $x = \pi \cdot i$는 특별한 가정이다. $x$에 다른 라디언을 넣으면 이는 좌표계에서 $(1,0)$에서 해당 라디언 만큼 움직인 좌표를 나타내게 된다. 즉, $e^{x \cdot i}$는 복소 좌표계의 단위원 위에서의 움직임을 나타내게 된다. 
-
-
-
 # Basic 
 
 ## Pi 
@@ -105,7 +99,7 @@ $$
 * radius(반지름)에서 온 말임을 쉽게 알 수 있다. 
 * 즉, 특정한 원호의 길이를 반지름으로 나눈 것을 radian이라고 정의한다. 이에 따르면, 
 	* 원주가 $2r\pi$이므로, 360도를 나타내는 radian은 $2\pi$가 된다. 
-* 따라서 이 관계로부터, 360도의 1/2인 180도는 $pi$, 1/4인 90도는 $\frac{\pi}{2}$등과 같이 정의된다. 
+* 따라서 이 관계로부터, 360도의 1/2인 180도는 $\pi$, 1/4인 90도는 $\frac{\pi}{2}$등과 같이 정의된다. 
 * 360단위로 표기된 각도를 실수로 치환하는 테크닉으로 이해하면 좋겠다. 
 * 더구나 360도라는 것은 아무런 베이스가 없는 표기법이다. Radian을 쓰게 될 경우 각도가 실수로 치환되는 장점이 있고, 단위에 의존하지 않게 된다. 
 
@@ -161,7 +155,7 @@ $$
 $i$의 승수의 경우 고유값을 갖지 않고 순환하는 특성을 지니고 있다. 
 
 $$
-z = i^p = i(p + 4\cdot n)
+z = i^p = i^{(p + 4\cdot n)}
 $$
 
 이는 $i$ 축을 가진 허수계가 단위 원에서 돌아가는 이유이기도 하다. 즉, 어떤 $z$라도 임의의 fraction을 곱해서 얻을 수 있으며, 녀석은 항상 단위원 위에 있게 된다. 
@@ -200,6 +194,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMyMjgzNywtNjg3OTY4MTEzLC0xMz
-Y0NjQ3ODkyLC0xMDgxMjYwNDE0LC0xNjkyNjAxNTI2XX0=
+eyJoaXN0b3J5IjpbLTE2NjA5OTc1MjEsLTE3NDMyMjgzNywtNj
+g3OTY4MTEzLC0xMzY0NjQ3ODkyLC0xMDgxMjYwNDE0LC0xNjky
+NjAxNTI2XX0=
 -->
