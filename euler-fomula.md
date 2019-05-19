@@ -67,6 +67,8 @@ x  \pi \cdot i$로 두고 이를 기하학적으로 이해하면 아래와 같�
 
 ![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png)
 
+![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound_2.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound_2.png)
+
 ### Facts 
 
 1. 복소계에서 곱은 두 개의 비슷한 삼각형을 붙여서 그려나가는 형태로 진행된다. 특히 제곱의 경우에는 한변을 공유한 상태에서 앞 삼각형과 비슷한 크기의 삼각형을 계속 붙여나가는 형태다. 
@@ -194,7 +196,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA5OTc1MjEsLTE3NDMyMjgzNywtNj
-g3OTY4MTEzLC0xMzY0NjQ3ODkyLC0xMDgxMjYwNDE0LC0xNjky
-NjAxNTI2XX0=
+eyJoaXN0b3J5IjpbNzI4MjEzMzkxLC0xNjYwOTk3NTIxLC0xNz
+QzMjI4MzcsLTY4Nzk2ODExMywtMTM2NDY0Nzg5MiwtMTA4MTI2
+MDQxNCwtMTY5MjYwMTUyNl19
 -->
