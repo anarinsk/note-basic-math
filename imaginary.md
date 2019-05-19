@@ -1,6 +1,6 @@
 
 
-![](https://betterexplained.com/wp-content/uploads/2018/08/imaginary-multiplication-exponents.png)
+![](https://betterexplained.com/wp-content/uploads/2018/08/imaponents.png)
 
 # 복수 좌표계에서 움직임 
 
@@ -41,7 +41,13 @@ $$
 \lim_{n \to \infty} \sqrt{1^2 + (\dfrac{1}{n})^2} = 1
 $$
 
-NOT PROPERLY ENDED
+NOT PROPERLY ENDEDe^{x \cdot i}$의 정의로 돌아가보자. 
+
+$$
+e^{x \cdot i} = \cos x + \sin x \cdot i 
+$$
+
+단위 원에서 생각해보자. 등변의 길이가 1이기 때문에 실수계로는 $\cos x$, 허수계로는 $\sin x$ 만큼 나간다. 이렇게 이동한 결과는 라디언으로 $x$ 만큼 회전한 결과이다. 
 
 ## Examples
 
@@ -81,8 +87,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTQ3OTEzLC02MDQxNTEzNjEsMTU1Mj
-A1NzA2LDI5MzA0MDcwOSw4NzcwNDgwOTQsLTYyMDEwOTI0OCw2
-MzI4MjA5MzYsMjA1OTkyMTU2MSwtMTQ1NjIzNTcwNSwxNjg0OT
-g5NjE0LC02NDg3NjA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5ODAxOTU3NjAsLTQyNTQ3OTEzLC02MD
+QxNTEzNjEsMTU1MjA1NzA2LDI5MzA0MDcwOSw4NzcwNDgwOTQs
+LTYyMDEwOTI0OCw2MzI4MjA5MzYsMjA1OTkyMTU2MSwtMTQ1Nj
+IzNTcwNSwxNjg0OTg5NjE0LC02NDg3NjA2MTJdfQ==
 -->
