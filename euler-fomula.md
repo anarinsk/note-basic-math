@@ -66,13 +66,13 @@ $$
 e^x = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} \right)^n
 $$
 
-$x  = \pi \cdot i$로 두고 이를 기하학적으로 이해하면 아래와 같다. 일단 16개를 해보자. 
+$x  = \pi \cdot i$로 두고 이를 기하학적으로 이해하면 아래와 같다. 일단 $n = 16$를 해보자. 
 
 ![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound.png)
 
-![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound_2.PNG](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compound_2.PNG)
 
 
+![https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compund_2.PNG](https://raw.githubusercontent.com/anarinsk/public_writing/master/assets/images/compund_2.PNG)
 
 1의 특별한 경우로 같은 크기의 이등변 삼각형을 계속 붙여 나가는 경우를 생각할 수 있다. 이 경우 복소수 제곱은 단위 원을 벗어나지 않는다. 2의 경우는 직각 삼각형의 이동으로 정식화할 수 있다. 
 
@@ -80,7 +80,7 @@ $$
 (1 + \dfrac{\pi \cdot i}{n})^n
 $$
 
-을 시각화한다고 생각해보자. $\pi$ 만큼의 라디언을 $n$번 잘라서 계속 붙여 나가게 된다. $\pi$는 복소 좌표계에서 $(-1.0)$에서 끝나게 되니, 반원형태로 생각할 수 있다. 이때 $n \to \infty$를 하면, 접하는 삼각형들의 변의 길이는 동일해지고 fact 1에 따라서 이등변 삼각형이 되므로 원을 벗어나지 않게 된다. 
+을 시각화한다고 생각해보자. $\pi$ 만큼의 라디언을 $n$번 잘라서 계속 붙여 나가게 된다. $\pi$는 복소 좌표계에서 $(-1,0)$에서 끝나게 되니, 반원형태로 생각할 수 있다. 이때 $n \to \infty$를 하면, 접하는 삼각형들의 변의 길이는 동일해지고 fact 1에 따라서 이등변 삼각형이 되므로 원을 벗어나지 않게 된다. 
 
 $$
 \lim_{n \to \infty} (1 + \dfrac{\pi \cdot i}{n})^n = e^{\pi \cdot i}
@@ -196,7 +196,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI2ODM0MzgsLTE2NjA5OTc1MjEsLT
-E3NDMyMjgzNywtNjg3OTY4MTEzLC0xMzY0NjQ3ODkyLC0xMDgx
-MjYwNDE0LC0xNjkyNjAxNTI2XX0=
+eyJoaXN0b3J5IjpbLTMwNzgwOTEzLC0xMTEyNjgzNDM4LC0xNj
+YwOTk3NTIxLC0xNzQzMjI4MzcsLTY4Nzk2ODExMywtMTM2NDY0
+Nzg5MiwtMTA4MTI2MDQxNCwtMTY5MjYwMTUyNl19
 -->
