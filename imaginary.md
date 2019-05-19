@@ -63,10 +63,10 @@ $$
 
 ### Case $i^i$
 
-$i = e^{\frac{\pi}{2}\cdot i}$. 즉, $e^{x \cdot i}$의 특징에서 따라서 $x =\frac{\pi}{2}$로 원주 위에서 돌릴 수 있다.  
+$i = e^{\frac{\pi}{2}\cdot i}$. 즉, $e^{x \cdot i}$의 특징에서 따라서 $x =\frac{}{2$로 원 위에서 돌릴 수 있다.  
 
 $$
-i^i = \left[ e^{\frac{\pi}{2}\cdot i} \right]^i =  e^{\frac{\pi}{2}\cdot i \cdot i} = e^{-\frac{\pi}{2}}  = 0.207\dotsc
+i^i = \left[ e^{\frac{\pi}{2}\cdot i} \right]^i =  e^{\frac{\pi}{2}\cdot i \cdot i} = e^{-\frac{\pi}{}}  = 0.207\dotsc
 $$
 
 흥미롭게도 그냥 실수가 되버린다. 
@@ -87,8 +87,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAxOTU3NjAsLTQyNTQ3OTEzLC02MD
-QxNTEzNjEsMTU1MjA1NzA2LDI5MzA0MDcwOSw4NzcwNDgwOTQs
-LTYyMDEwOTI0OCw2MzI4MjA5MzYsMjA1OTkyMTU2MSwtMTQ1Nj
-IzNTcwNSwxNjg0OTg5NjE0LC02NDg3NjA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjkxMzMzMDgsLTE5ODAxOTU3NjAsLT
+QyNTQ3OTEzLC02MDQxNTEzNjEsMTU1MjA1NzA2LDI5MzA0MDcw
+OSw4NzcwNDgwOTQsLTYyMDEwOTI0OCwyMDU5OTIxNTYxLC0xND
+U2MjM1NzA1LDE2ODQ5ODk2MTQsLTY0ODc2MDYxMl19
 -->
