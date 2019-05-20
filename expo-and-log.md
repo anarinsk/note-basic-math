@@ -46,6 +46,15 @@ $$
 * 1의 이자율(100%)를 단위 기간 내에 무한번 컴파운딩(복리) 지급, 이라고 이해할 수 있다. 
 	+ continuously compounded interest 
 
+### 복리라는 게 왜 생겼을까? 
+
+"돈이 돈을 낳아야 하지 않을까", 라는 발상 
+
+![](https://www.bok.or.kr/static/portal/img/ecostudy/es_da_fr_01_f.gif)
+
+* 즉,  단리는 약정 기간이 끝났을 때 붙는 이자율이다. 직관적이고 자연스럽다. 
+* 그런데
+
 ## rate of $x$
 
 * 만일 이자율이 $x \times 100$ 비율이라면? 
@@ -160,9 +169,9 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjEzOTEyNiwxNDMzOTMzMDI2LDcxMD
-U5MTcxNSwzNjMxNDk0NzcsMzgwNTI2ODgwLC0xOTMxODI2NTg0
-LDE0MzcwMjAwMDcsMTY0MTQwMzI3NSwtMTExNDk3MDkyOSwtMj
-E0MjEwNDAwMywxNzA0NzY4NjkzLC04MzEwNTY2NTAsMTQ0NjQ5
-NzkzOF19
+eyJoaXN0b3J5IjpbMTc3MjM2MjMyNiwtODIyMTM5MTI2LDE0Mz
+M5MzMwMjYsNzEwNTkxNzE1LDM2MzE0OTQ3NywzODA1MjY4ODAs
+LTE5MzE4MjY1ODQsMTQzNzAyMDAwNywxNjQxNDAzMjc1LC0xMT
+E0OTcwOTI5LC0yMTQyMTA0MDAzLDE3MDQ3Njg2OTMsLTgzMTA1
+NjY1MCwxNDQ2NDk3OTM4XX0=
 -->
