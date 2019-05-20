@@ -66,7 +66,7 @@ $$
 
 ![4  month compound interest](https://betterexplained.com/wp-content/uploads/math/e/growth_interest_4_months_compound.png)
 
-이렇게 이해할 수 있겠다. 복리 이자율 $X$
+이렇게 이해할 수 있겠다. 복리 이자율 $x$를 지급한다는 뜻은 애초의 원금에 대해서만 붙는 이자를 의미한다. 이를 복리
 
 ## rate of $x$
 
@@ -182,9 +182,10 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjAyMDQxOCwtNzQ1MTQzNTgzLC04Mj
-IxMzkxMjYsMTQzMzkzMzAyNiw3MTA1OTE3MTUsMzYzMTQ5NDc3
-LDM4MDUyNjg4MCwtMTkzMTgyNjU4NCwxNDM3MDIwMDA3LDE2ND
-E0MDMyNzUsLTExMTQ5NzA5MjksLTIxNDIxMDQwMDMsMTcwNDc2
-ODY5MywtODMxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
+eyJoaXN0b3J5IjpbLTE4OTg4Mjk2OTIsLTcxMjAyMDQxOCwtNz
+Q1MTQzNTgzLC04MjIxMzkxMjYsMTQzMzkzMzAyNiw3MTA1OTE3
+MTUsMzYzMTQ5NDc3LDM4MDUyNjg4MCwtMTkzMTgyNjU4NCwxND
+M3MDIwMDA3LDE2NDE0MDMyNzUsLTExMTQ5NzA5MjksLTIxNDIx
+MDQwMDMsMTcwNDc2ODY5MywtODMxMDU2NjUwLDE0NDY0OTc5Mz
+hdfQ==
 -->
