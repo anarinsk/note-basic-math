@@ -48,9 +48,13 @@ $$
 
 ### 복리라는 게 왜 생겼을까? 
 
-"돈이 돈을 낳아야 하지 않을까", 라는 발상 
+참고: [https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/](https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/)
 
-![](https://www.bok.or.kr/static/portal/img/ecostudy/es_da_fr_01_f.gif)
+
+#### 박테리아의 비유 
+
+
+
 
 * 즉,  단리는 약정 기간이 끝났을 때 붙는 이자율이다. 직관적이고 자연스럽다. 
 	* 위 그림에서 보듯이 약정한 연도가 지나도 받을 이자의 액수는 동일하다. 
@@ -174,9 +178,9 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTE0MzU4MywtODIyMTM5MTI2LDE0Mz
-M5MzMwMjYsNzEwNTkxNzE1LDM2MzE0OTQ3NywzODA1MjY4ODAs
-LTE5MzE4MjY1ODQsMTQzNzAyMDAwNywxNjQxNDAzMjc1LC0xMT
-E0OTcwOTI5LC0yMTQyMTA0MDAzLDE3MDQ3Njg2OTMsLTgzMTA1
-NjY1MCwxNDQ2NDk3OTM4XX0=
+eyJoaXN0b3J5IjpbNjE1MDIxMTEzLC03NDUxNDM1ODMsLTgyMj
+EzOTEyNiwxNDMzOTMzMDI2LDcxMDU5MTcxNSwzNjMxNDk0Nzcs
+MzgwNTI2ODgwLC0xOTMxODI2NTg0LDE0MzcwMjAwMDcsMTY0MT
+QwMzI3NSwtMTExNDk3MDkyOSwtMjE0MjEwNDAwMywxNzA0NzY4
+NjkzLC04MzEwNTY2NTAsMTQ0NjQ5NzkzOF19
 -->
