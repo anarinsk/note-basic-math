@@ -26,11 +26,11 @@ $$
 
 $$
 \begin{aligned}
-e & = \lim_{n \to \infty} (1+\dfrac{1}{n})^n \\
-& = 
+e & = \lim_{n \to \infty} (1+\dfrac{1}{n})^n \\\\
+& = \lim_{n \to \infty} \left[ {n \choose 0} 1^n  + 1 + \dfrac{n!}{(n-2)!2!}\left(\dfrac{1}{n} \right)^2 1^{n-2} + 
+ \dfrac{n!}{(n-3)!3!}\left(\dfrac{1}{n} \right)^3 1^{n-2} + \dotsb \right] \\\\
 & = \lim_{n \to \infty} \left[ 1 + 1 + \dfrac{n!}{(n-2)!2!}\left(\dfrac{1}{n} \right)^2 1^{n-2} + 
- \dfrac{n!}{(n-3)!3!}\left(\dfrac{1}{n} \right)^3 1^{n-2} 
-\dotsb \right] \\
+ \dfrac{n!}{(n-3)!3!}\left(\dfrac{1}{n} \right)^3 1^{n-2} + \dotsb \right] \\\\
 & = 1 + 1 + \dfrac{1}{2!} + 
  \dfrac{1}{3!} +  
 \dotsb 
@@ -194,10 +194,10 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzAwOTg3MCwyMjM3MjY3MzYsLTM1OD
-E4ODc4NCw1NDg1ODAyMzYsLTcxMjAyMDQxOCwtNzQ1MTQzNTgz
-LC04MjIxMzkxMjYsMTQzMzkzMzAyNiw3MTA1OTE3MTUsMzYzMT
-Q5NDc3LDM4MDUyNjg4MCwtMTkzMTgyNjU4NCwxNDM3MDIwMDA3
-LDE2NDE0MDMyNzUsLTExMTQ5NzA5MjksLTIxNDIxMDQwMDMsMT
-cwNDc2ODY5MywtODMxMDU2NjUwLDE0NDY0OTc5MzhdfQ==
+eyJoaXN0b3J5IjpbMTUwNDY5MDEyLDIyMzcyNjczNiwtMzU4MT
+g4Nzg0LDU0ODU4MDIzNiwtNzEyMDIwNDE4LC03NDUxNDM1ODMs
+LTgyMjEzOTEyNiwxNDMzOTMzMDI2LDcxMDU5MTcxNSwzNjMxND
+k0NzcsMzgwNTI2ODgwLC0xOTMxODI2NTg0LDE0MzcwMjAwMDcs
+MTY0MTQwMzI3NSwtMTExNDk3MDkyOSwtMjE0MjEwNDAwMywxNz
+A0NzY4NjkzLC04MzEwNTY2NTAsMTQ0NjQ5NzkzOF19
 -->
