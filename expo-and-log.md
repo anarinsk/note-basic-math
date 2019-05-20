@@ -53,16 +53,16 @@ $$
 
 #### 박테리아의 비유 
 
+![interest rate 6 months](https://betterexplained.com/wp-content/uploads/math/e/growth_interest_6_months.png)
 
+* 박테리아의 경우 완전체(1)이 되어야 재생산이 가능하다고 가정해보자. 이 경우 1의 박테리아는 또다른 1을 낳을 때까지 재생산 가능한 박테리아는 1에 불과하다. 
 
+#### 돈의 비유 
 
-* 즉,  단리는 약정 기간이 끝났을 때 붙는 이자율이다. 직관적이고 자연스럽다. 
-	* 위 그림에서 보듯이 약정한 연도가 지나도 받을 이자의 액수는 동일하다. 
-* 복리는 어떤가? 두가지 방식으로 생각해보자. 
-	* 일단 이자를 연마다 붙여준다고 생각하자. 그리고 약정한 기간은 5년이다. 
-	* 1년 후에 원금에 이자가 붙는다. 원금은 내년에도 또 같은 금액을 낳게 된다. 
-	* 원금에 붙은 이자에 대해서는 어떠한가? 이 이자도 남은 기간에 이자를 벌어온다! 
-* Money never sleeps의 정신이랄까
+![compound interest](https://betterexplained.com/wp-content/uploads/math/e/growth_interest_6_months_compound.png)
+
+* 돈이 돈을 낳는다!
+* 
 
 ## rate of $x$
 
@@ -178,9 +178,9 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MDIxMTEzLC03NDUxNDM1ODMsLTgyMj
-EzOTEyNiwxNDMzOTMzMDI2LDcxMDU5MTcxNSwzNjMxNDk0Nzcs
-MzgwNTI2ODgwLC0xOTMxODI2NTg0LDE0MzcwMjAwMDcsMTY0MT
-QwMzI3NSwtMTExNDk3MDkyOSwtMjE0MjEwNDAwMywxNzA0NzY4
-NjkzLC04MzEwNTY2NTAsMTQ0NjQ5NzkzOF19
+eyJoaXN0b3J5IjpbLTE5MDE2NTc5NjYsLTc0NTE0MzU4MywtOD
+IyMTM5MTI2LDE0MzM5MzMwMjYsNzEwNTkxNzE1LDM2MzE0OTQ3
+NywzODA1MjY4ODAsLTE5MzE4MjY1ODQsMTQzNzAyMDAwNywxNj
+QxNDAzMjc1LC0xMTE0OTcwOTI5LC0yMTQyMTA0MDAzLDE3MDQ3
+Njg2OTMsLTgzMTA1NjY1MCwxNDQ2NDk3OTM4XX0=
 -->
