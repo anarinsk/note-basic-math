@@ -17,15 +17,13 @@ $$
 \begin{aligned}
 e^x & = \lim_{n \to \infty} (1+\dfrac{x}{n})^n \\
 & =  \lim_{n/x \to \infty} \left[(1+\dfrac{1}{(n/x)})^{n/x} \right]^x \\
-& =  \left[\lim_{n/x \to \infty} (1+\dfrac{1}{(n/x)})^{n/x} \right]^x \\
-& = e^x
+& =  \left[\lim_{n/x \to \infty} (1+\dfrac{1}{(n/x)})^{n/x} \right]^x 
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-\lim_{n \to \infty} \left[ {n\choose 0} 
-e & = \lim_{n \to \infty} (1+\dfrac{1x}{n})^n \\ 
+e & = \lim_{n \to \infty} (1+\dfrac{1}{n})^n \\ 
 & = \lim_{n \to \infty} \left[ {n\choose 0}  \left(\dfrac{1}{n} \right)^0 1^n + {n\choose 1} \left(\dfrac{1}{n} \right)^1 1^{n-1} + {n\choose 2} \left(\dfrac{1}{n} \right)^2 1^{n-2} + \dotsb \right]
 \end{}
 $$
@@ -168,9 +166,9 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MTk4MjU4LDE0MzM5MzMwMjYsNzEwNT
-kxNzE1LDM2MzE0OTQ3NywzODA1MjY4ODAsLTE5MzE4MjY1ODQs
-MTQzNzAyMDAwNywxNjQxNDAzMjc1LC0xMTE0OTcwOTI5LC0yMT
-QyMTA0MDAzLDE3MDQ3Njg2OTMsLTgzMTA1NjY1MCwxNDQ2NDk3
-OTM4XX0=
+eyJoaXN0b3J5IjpbLTE4NzYwODk0NTksMTQzMzkzMzAyNiw3MT
+A1OTE3MTUsMzYzMTQ5NDc3LDM4MDUyNjg4MCwtMTkzMTgyNjU4
+NCwxNDM3MDIwMDA3LDE2NDE0MDMyNzUsLTExMTQ5NzA5MjksLT
+IxNDIxMDQwMDMsMTcwNDc2ODY5MywtODMxMDU2NjUwLDE0NDY0
+OTc5MzhdfQ==
 -->
