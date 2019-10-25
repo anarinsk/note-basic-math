@@ -26,6 +26,7 @@
 - 파란색 기준의 $\tan \theta$와 빨간색 기준의 $\tan \theta$는 동일하다. 
 - 따라서 녹색선의 길이는 같다. 
 - 적색과 녹색은 서로 직교(orthogonal)함으로 녹색선은 원에 접해야 한다. 
+- 원을 그려놓고 보면 녹색선은 원에 접하게 된다. Tangent! 
 
 
 # Binary Operation of Trigonometry 
@@ -83,6 +84,8 @@ $\sin (a+b) \approx a + b$
 
 ## Derivative of $\sin$
 
+[http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+
 이제 이 사실은 $\sin x$의 도함수를 도출하는 데 활용해보자. 
 
 $$
@@ -101,6 +104,27 @@ $\cos x$의 미분도 같은 방식으로 구현해보자.
 $$
 \dfrac{d (\cos x)}{dx} = -\sin x
 $$ 
+
+## Another derivation 
+
+$$
+\begin{aligned} 
+\dfrac{d (\sin x)}{ dx} & =  \lim_{dx \to 0}  \dfrac{\sin (x + dx) - \sin x}{dx}  \\
+& =  \lim_{dx \to 0}  \dfrac{\sin x \cos dx + \sin dx \cos x - \sin x}{dx} \\
+& =  \lim_{dx \to 0}  \dfrac{\sin x (\cos dx -1 ) + \sin dx \cos x }{dx} \\
+& =  \sin x \lim_{dx \to 0}  \dfrac{\cos dx -1}{dx}  +   \cos x \lim_{dx \to 0}  \dfrac{\sin dx }{dx}  \\
+& =  \sin x (0)  +   \cos x (1) \\
+& = \cos x 
+\end{aligned}
+$$
+
+### Underlying facts 
+
+$$
+\lim_{\theta \to 0} \dfrac{\sin \theta}{\theta} = 1, ~ \lim_{\theta \to 0} \dfrac{\cos \theta - 1}{\theta} = 0
+$$
+
+[http://tutorial.math.lamar.edu/Classes/CalcI/ProofTrigDeriv.aspx](http://tutorial.math.lamar.edu/Classes/CalcI/ProofTrigDeriv.aspx)
 
 # Some Practices 
 
@@ -123,14 +147,13 @@ $$
 
 각도를 상대화해서 실수로 만들 수는 없을까? 
 
-- 원주 위에서 원주를 따라서 이동한 거리를 반지름(radius)로 나누자. 이렇게 되면, 도는 각도가 고정된다. 
-- 이는 원주와 지름이 항상 일정한 숫자 $\pi$로 고정되기 때문이다. 
-- 즉, radian은 0~360도를 $[0, 2\pi]$ 사이의 실수로  매핑한다. 
+- 원주 위에서 원주를 따라서 이동한 거리를 반지름(radius)로 나누자. 
+- 이렇게 되면 0~360도 &rarr; $[0, 2\pi]$
 - 쓸 데 없는 단위도 붙지 않고, 그냥 실수인 radian을 쓰지 않을 이유가 있을까? 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDc4MjI3NSwtODQ4NDc3NzIyLC0xMD
-E1NzMxMTY1LC02MzE2NzgyNjRdfQ==
+eyJoaXN0b3J5IjpbLTE2NTM5NDYyMDYsMTEwNDc4MjI3NSwtOD
+Q4NDc3NzIyLC0xMDE1NzMxMTY1LC02MzE2NzgyNjRdfQ==
 -->
