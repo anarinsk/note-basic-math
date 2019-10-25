@@ -66,10 +66,7 @@ $e^x$는 정의의 두번째 형태, $\sum_{k=0}^\infty \dfrac{x^k}{k!}$와 같�
 * 만일 복리 이자율이 $x \times 100$라면? 
 
 $$
-\lim_{n \to \infty} (1 + \dfrac{x}{n})^n
-$$
-
-### Derivation 
+\lim_{n ### Derivation 
 
 $$
 \begin{aligned}
@@ -169,17 +166,17 @@ $$
 $$
 \begin{aligned}
 2 &= e^{x}\\\\
-\ln 2 &= \ln e^{x} = \ln e^{rt} = 
+\ln 2 &= \ln e^{x} = \ln e^{rt} = rt
 \end{aligned}
 $$
 
-즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
+즉, $\ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk5MjkzODksMTc5NTkzNDI4MywtMT
-k1ODMwNzA1MywtMjA5OTgyNjk0MywyMjM3MjY3MzYsLTM1ODE4
-ODc4NCw1NDg1ODAyMzYsLTcxMjAyMDQxOCwtNzQ1MTQzNTgzLC
-04MjIxMzkxMjYsMTQzMzkzMzAyNiw3MTA1OTE3MTUsMzgwNTI2
-ODgwLC0xOTMxODI2NTg0LDE0MzcwMjAwMDcsMTY0MTQwMzI3NS
-wtMTExNDk3MDkyOSwtMjE0MjEwNDAwMywxNzA0NzY4NjkzLC04
-MzEwNTY2NTBdfQ==
+eyJoaXN0b3J5IjpbOTQ1NTExNzQ3LC0xNTc5OTI5Mzg5LDE3OT
+U5MzQyODMsLTE5NTgzMDcwNTMsLTIwOTk4MjY5NDMsMjIzNzI2
+NzM2LC0zNTgxODg3ODQsNTQ4NTgwMjM2LC03MTIwMjA0MTgsLT
+c0NTE0MzU4MywtODIyMTM5MTI2LDE0MzM5MzMwMjYsNzEwNTkx
+NzE1LDM4MDUyNjg4MCwtMTkzMTgyNjU4NCwxNDM3MDIwMDA3LD
+E2NDE0MDMyNzUsLTExMTQ5NzA5MjksLTIxNDIxMDQwMDMsMTcw
+NDc2ODY5M119
 -->
