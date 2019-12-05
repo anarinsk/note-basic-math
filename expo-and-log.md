@@ -6,7 +6,7 @@
 $$
 \begin{aligned}
 \exp {(x)} & = e^x = \lim_{n \to \infty} \left( 1 + \dfrac{x}{n} \right)^n \\ 
-& =\sum_{k=0}^\infty \dfrac{x^k}{k!} = 1 + x + \dfrac{x^2}{2!} + + \dfrac{x^3}{3!} + \dotsb
+& =exp {(x)} = \sum_{k=0}^\infty \dfrac{x^k}{k!} = 1 + x + \dfrac{x^2}{2!} + + \dfrac{x^3}{3!} + \dotsb
 \end{aligned}
 $$
 
@@ -78,15 +78,28 @@ $$
  e 
 
 $$
-\lim_{n \to \infty} (1+\dfrac{}{n})^n 1의 이자율(100%)를 단위 기간 내에 무한번 컴파운딩(복리) 지급, 이라고 이해할 수 있다. 
+\lim_{n \to \infty} (1+\dfrac{}{n})^n$$
+
+* or Euler number 
+
+## Narrative 
+
+$$
+\lim_{n \to \infty} (1 + \dfrac{1}{n})^n
+$$
+
+* 1의 이자율(100%)를 단위 기간 내에 무한번 컴파운딩(복리) 지급, 이라고 이해할 수 있다. 
 	+ continuously compounded interest 
 
 ## rate of $x$
 
-* 만일 복리 이자율이 $x \times 100$라면? 
+* 만일 복리 이자율이 $x \times 100$ rate 라면? 
 
 $$
-\lim_{n ### Derivation 
+\lim_{n \to \infty} (1 + \dfrac{x}{n})^n
+$$
+
+### Derivation 
 
 $$
 \begin{aligned}
@@ -101,13 +114,13 @@ $$
 
 $$
 \begin{aligned}
-\dfrac{d}{dx}\ln (x) & = \lim_{h \to 0} \dfrac{\ln (x+h) - \ln (x)}{h} \\\\
-&=  \lim_{h \to 0} \dfrac{1}{h} \ln \left( 1+\frac{h}{x} \right) \\\\
+\dfrac{d}{dx}\ln (x) & = \lim_{h \to 0} \dfrac{\ln (x+h) - \ln (x)}{h} \\ \\
+&=  \lim_{h \to 0} \dfrac{1}{h} \ln \left( 1+\frac{h}{x} \right) \\ \\
 & =  \lim_{h \to 0} \ln 
-\left( 1+\frac{h}{x} \right)^{\frac{1}{h}} \\\\
-& =  \lim_{h \to 0} \ln \left( 1+\frac{1}{t} \right)^{\frac{t}{x}} \\\\
-& = \dfrac{1}{x} \ln \left( \lim_{t \to 0} \left( 1+\frac{1}{t} \right)^t \right) \\\\
-& = \dfrac{1}{x} \ln (e) \\\\
+\left( 1+\frac{h}{x} \right)^{\frac{1}{h}} \\ \\
+& =  \lim_{h \to 0} \ln \left( 1+\frac{1}{t} \right)^{\frac{t}{x}} \\ \\
+& = \dfrac{1}{x} \ln \left( \lim_{t \to 0} \left( 1+\frac{1}{t} \right)^t \right) \\ \\
+& = \dfrac{1}{x} \ln (e) \\ \\
 & = \dfrac{1}{x}
 \end{aligned}
 $$
@@ -192,11 +205,11 @@ $$
 
 즉, $x = \ln 2 = 0.693$이다. 만일 성장률을 백분률로 나타낸다면, $100 x = 69.3$. 그리고 $e$의 특성상  $100x = rt$로 분리할 수 있다. 즉, $r$은 백분율로 나타낸 연간 성장률이고 $t$는 연차를 나타낸다. 즉, 어떤 상태가 두 개가 되기 위해 필요한 연간 성장률 및 연차를 나타낸다. 그런데, 69.3이라는 숫자는 구구단에 등장하지 않는다. 구구단에 등장하는 가장 가까운 숫자가 72이다. 그래서 72의 법칙이라고 불린다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg0Njc4NjEsOTQ1NTExNzQ3LC0xNT
-c5OTI5Mzg5LDE3OTU5MzQyODMsLTE5NTgzMDcwNTMsLTIwOTk4
-MjY5NDMsMjIzNzI2NzM2LC0zNTgxODg3ODQsNTQ4NTgwMjM2LC
-03MTIwMjA0MTgsLTc0NTE0MzU4MywtODIyMTM5MTI2LDE0MzM5
-MzMwMjYsNzEwNTkxNzE1LDM4MDUyNjg4MCwtMTkzMTgyNjU4NC
-wxNDM3MDIwMDA3LDE2NDE0MDMyNzUsLTExMTQ5NzA5MjksLTIx
-NDIxMDQwMDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjUzNzczNzgsLTE2Mjg0Njc4NjEsOT
+Q1NTExNzQ3LC0xNTc5OTI5Mzg5LDE3OTU5MzQyODMsLTE5NTgz
+MDcwNTMsLTIwOTk4MjY5NDMsMjIzNzI2NzM2LC0zNTgxODg3OD
+QsNTQ4NTgwMjM2LC03MTIwMjA0MTgsLTc0NTE0MzU4MywtODIy
+MTM5MTI2LDE0MzM5MzMwMjYsNzEwNTkxNzE1LDM4MDUyNjg4MC
+wtMTkzMTgyNjU4NCwxNDM3MDIwMDA3LDE2NDE0MDMyNzUsLTEx
+MTQ5NzA5MjldfQ==
 -->
